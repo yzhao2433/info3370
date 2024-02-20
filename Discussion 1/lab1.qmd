@@ -1,0 +1,32 @@
+---
+title: "Lab1"
+format: pdf
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(ggrepel)
+data <- read_csv(file = "https://info3370.github.io/data/jencks_table1.csv")
+data |>
+  ggplot(mapping = aes(x = ratio, y = gdp)) +
+  geom_point() +
+  scale_x_continuous(
+    name = "Inequality\n90th percentile / 10th percentile of household income"
+    ) +
+  scale_y_continuous(
+    name = "GDP as a Percent of U.S.", 
+    labels = scales::percent
+    ) +
+  geom_text_repel(aes(label = data$country)) +
+  geom_smooth(method = lm, se = FALSE) +
+  theme_bw()
+```
+
+From this graph and the positive-sloping line of best fit, it appears that there is a positive correlation between inequality ratio and GDP as a percent of the United States. As the inequality ratio increases, so does estimated GDP as a percent of the United States. However, the U.S. appears to be an outlier, as it has an extremely high inequality and GDP compared with the rest of the countries. This could make it seem like there is a stronger positive correlation between inequality ratio and GDP than there really is.
+
+Questions:
+
+-   What would happen if we removed the U.S. from the data?
+
+-   How would it vary if we grouped the countries into regions? By geography?

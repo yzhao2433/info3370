@@ -1,0 +1,1366 @@
+g1_id,g2_id,g3_id,race,sex,g1_educ,g2_educ,g3_educ,g1_log_income,g2_log_income,g3_log_income
+1,1,2,White,Male,Less than high school,Less than high school,High school,10.89882302140705,11.274951208762015,NA
+1,2,3,White,Male,Less than high school,High school,Some college,10.89882302140705,12.051806658255483,NA
+1,3,5,White,Female,Less than high school,Less than high school,Less than high school,10.89882302140705,11.555457807942714,NA
+1,3,6,White,Male,Less than high school,Less than high school,High school,10.89882302140705,11.555457807942714,NA
+1,5,8,White,Female,Less than high school,Less than high school,High school,10.89882302140705,10.99907143377797,NA
+2,8,14,White,Male,Less than high school,Less than high school,High school,10.663042999766734,11.555457807942714,NA
+2,9,15,White,Female,Less than high school,High school,High school,10.663042999766734,11.385778919975392,NA
+2,10,16,White,Female,Less than high school,Less than high school,High school,10.663042999766734,10.99907143377797,NA
+3,11,17,White,Male,Less than high school,High school,Some college,10.88505870140231,11.404056765622514,NA
+4,12,18,White,Male,Less than high school,High school,Some college,10.897302100237455,11.404056765622514,NA
+5,13,20,White,Male,Less than high school,High school,Less than high school,11.096239150282509,11.042594636819215,NA
+5,14,22,White,Female,Less than high school,Less than high school,Less than high school,11.096239150282509,10.137670719643198,NA
+5,14,23,White,Female,Less than high school,Less than high school,Less than high school,11.096239150282509,10.137670719643198,NA
+5,15,27,White,Male,Less than high school,Less than high school,High school,11.096239150282509,10.06037886469382,NA
+5,15,28,White,Male,Less than high school,Less than high school,High school,11.096239150282509,10.06037886469382,NA
+8,18,31,White,Male,College,High school,Some college,10.109919750107414,11.665804534181964,NA
+8,18,32,White,Female,College,High school,High school,10.109919750107414,11.665804534181964,NA
+10,20,35,White,Female,High school,Less than high school,Some college,10.993015927153966,11.126975436633538,NA
+11,21,37,White,Female,Less than high school,Less than high school,High school,11.475258758552215,10.741051068948693,NA
+11,21,38,White,Female,Less than high school,Less than high school,Some college,11.475258758552215,10.741051068948693,NA
+14,24,43,White,Male,Less than high school,High school,College,11.701179572559374,11.667542299821854,NA
+14,24,44,White,Male,Less than high school,High school,College,11.701179572559374,11.667542299821854,NA
+14,25,45,White,Female,Less than high school,High school,College,11.701179572559374,10.777441570698423,NA
+14,25,47,White,Male,Less than high school,High school,Less than high school,11.701179572559374,10.777441570698423,NA
+15,26,48,White,Female,High school,High school,College,11.810482186244291,11.667542299821854,NA
+15,26,49,White,Male,High school,High school,College,11.810482186244291,11.667542299821854,NA
+15,27,52,White,Female,High school,High school,High school,11.810482186244291,10.777441570698423,NA
+16,28,54,White,Female,Some college,Some college,High school,11.072074772629737,10.965793649491777,NA
+16,29,55,White,Male,Some college,Some college,High school,11.072074772629737,11.674340555053792,NA
+17,31,57,White,Male,Some college,Some college,High school,11.072577709509424,11.674340555053792,NA
+19,33,59,White,Female,Less than high school,High school,College,11.975240353094946,11.345044082303136,NA
+20,34,60,White,Male,Less than high school,Less than high school,High school,11.394849502317125,11.229730690231907,NA
+20,35,62,White,Male,Less than high school,High school,High school,11.394849502317125,11.190660800071374,NA
+20,36,63,White,Female,Less than high school,High school,College,11.394849502317125,11.088525395565703,NA
+21,41,69,White,Female,High school,High school,College,11.440819951158247,11.088525395565703,NA
+21,43,71,White,Male,High school,High school,Less than high school,11.440819951158247,11.048706515280887,NA
+22,44,72,White,Male,Less than high school,High school,Some college,11.632295138879716,11.076795261591178,NA
+22,45,73,White,Female,Less than high school,College,College,11.632295138879716,12.005929015846828,NA
+24,49,80,White,Male,High school,High school,High school,11.767364390156432,11.774804409227796,NA
+25,50,83,White,Female,High school,High school,High school,11.556792719498098,11.571754142819296,NA
+25,50,84,White,Male,High school,High school,Some college,11.556792719498098,11.571754142819296,NA
+26,51,85,White,Male,Less than high school,High school,Some college,11.205629867301932,11.571754142819296,NA
+26,51,86,White,Female,Less than high school,High school,High school,11.205629867301932,11.571754142819296,NA
+26,51,87,White,Male,Less than high school,High school,Some college,11.205629867301932,11.571754142819296,NA
+27,54,91,White,Male,Less than high school,High school,College,12.51592152352024,11.8151788107408,NA
+28,55,92,White,Female,Less than high school,College,College,12.573523069864313,11.626930159412796,NA
+28,56,94,White,Female,Less than high school,Less than high school,High school,12.573523069864313,11.309558904781,NA
+29,58,96,White,Female,High school,High school,College,11.421320533198108,11.23724728510513,NA
+29,60,99,White,Male,High school,High school,High school,11.421320533198108,11.0158748448645,NA
+29,60,100,White,Female,High school,High school,Some college,11.421320533198108,11.0158748448645,NA
+30,61,101,White,Female,High school,High school,College,11.521598328052596,11.23724728510513,NA
+30,62,103,White,Female,High school,Less than high school,Some college,11.521598328052596,11.382365973820173,NA
+30,63,104,White,Male,High school,High school,High school,11.521598328052596,11.0158748448645,NA
+31,64,106,White,Female,Less than high school,High school,College,11.602874663440758,11.838652563171644,NA
+32,65,108,White,Female,High school,High school,College,11.606949127612909,11.838652563171644,NA
+33,66,110,Black,Male,Some college,Some college,Less than high school,11.74023924493863,11.310715551937417,NA
+35,68,112,White,Female,College,College,Some college,12.0972337516361,11.71975610860199,NA
+36,70,116,White,Female,High school,College,Some college,12.0972337516361,11.71975610860199,NA
+36,70,117,White,Male,High school,College,Some college,12.0972337516361,11.71975610860199,NA
+36,71,119,White,Female,High school,College,College,12.0972337516361,12.419829733752525,NA
+37,72,120,White,Male,Less than high school,High school,High school,11.388984333794758,10.857293747537554,NA
+39,76,125,White,Female,Less than high school,Less than high school,Less than high school,10.316957896982128,9.783439843807903,NA
+40,77,127,Black,Female,Some college,Some college,Some college,11.795281308446393,11.567907642573163,NA
+40,77,128,Black,Female,Some college,Some college,High school,11.795281308446393,11.567907642573163,NA
+41,78,130,Black,Female,Less than high school,Some college,Some college,11.829328675057408,11.567907642573163,NA
+41,78,132,Black,Female,Less than high school,Some college,Some college,11.829328675057408,11.567907642573163,NA
+42,79,133,White,Female,Less than high school,Some college,College,11.590300233898763,11.566909319305827,NA
+43,80,134,White,Female,Less than high school,Some college,College,11.650232182511266,11.566909319305827,NA
+44,81,135,White,Female,High school,College,College,11.872790113991387,12.136568257272783,NA
+45,83,138,White,Male,High school,College,College,11.053776287699867,11.867219757298367,NA
+45,84,139,White,Female,High school,College,College,11.053776287699867,11.29617624681302,NA
+46,85,142,White,Male,Less than high school,Less than high school,High school,10.228032708450582,11.599729300427061,NA
+47,87,145,White,Male,Some college,College,College,11.65934972662675,12.135592752809636,NA
+47,87,146,White,Female,Some college,College,College,11.65934972662675,12.135592752809636,NA
+48,88,148,White,Female,Some college,High school,High school,11.982463467170398,10.224515443104197,NA
+48,88,150,White,Female,Some college,High school,Less than high school,11.982463467170398,10.224515443104197,NA
+49,89,152,White,Male,Some college,High school,High school,12.137116719222869,10.224515443104197,NA
+49,89,154,White,Female,Some college,High school,Some college,12.137116719222869,10.224515443104197,NA
+49,89,155,White,Female,Some college,High school,Less than high school,12.137116719222869,10.224515443104197,NA
+49,89,156,White,Male,Some college,High school,High school,12.137116719222869,10.224515443104197,NA
+50,91,158,White,Female,High school,Some college,College,12.14332834218234,12.022432197929827,NA
+51,92,159,White,Male,High school,Some college,Some college,12.139196439821196,12.172567315436265,NA
+52,94,161,White,Male,High school,College,Some college,11.305235819984635,11.486119180970137,NA
+53,95,162,White,Male,High school,College,Some college,11.347111935309874,11.486119180970137,NA
+56,98,166,White,Male,Less than high school,High school,High school,11.80514259996161,10.589379771280345,NA
+57,99,167,White,Male,High school,High school,High school,11.865409285040757,10.589379771280345,NA
+60,102,170,White,Female,High school,High school,High school,11.784118563154859,10.866491476218505,NA
+60,102,171,White,Male,High school,High school,High school,11.784118563154859,10.866491476218505,NA
+60,103,173,White,Female,High school,High school,College,11.784118563154859,11.521661620018984,NA
+61,104,175,White,Female,Less than high school,High school,High school,11.786249495032296,10.866491476218505,NA
+61,105,177,White,Female,Less than high school,High school,Some college,11.786249495032296,11.521661620018984,NA
+61,105,178,White,Female,Less than high school,High school,College,11.786249495032296,11.521661620018984,NA
+62,106,180,White,Male,Less than high school,College,Some college,11.412454940663265,11.617735330944935,NA
+62,107,181,White,Male,Less than high school,High school,College,11.412454940663265,11.134560991499463,NA
+62,108,182,White,Male,Less than high school,Some college,College,11.412454940663265,11.664668412803215,NA
+63,109,183,White,Male,High school,College,Some college,11.353323761124795,11.617735330944935,NA
+63,110,184,White,Male,High school,High school,College,11.353323761124795,11.134560991499463,NA
+63,111,185,White,Male,High school,Some college,College,11.353323761124795,11.664668412803215,NA
+64,113,188,Other,Female,Less than high school,High school,Some college,11.06459492656794,11.48473545459896,NA
+64,114,189,Other,Male,Less than high school,Less than high school,High school,11.06459492656794,10.893031578584141,NA
+64,115,192,Other,Male,Less than high school,Less than high school,Some college,11.06459492656794,10.57741000830786,NA
+64,115,193,Other,Male,Less than high school,Less than high school,High school,11.06459492656794,10.57741000830786,NA
+64,116,195,Other,Female,Less than high school,Less than high school,High school,11.06459492656794,11.407533316097442,NA
+64,117,197,Other,Female,Less than high school,Less than high school,High school,11.06459492656794,10.830306253665217,NA
+65,120,202,Other,Male,Less than high school,Less than high school,High school,11.08307302951843,10.893031578584141,NA
+65,120,203,Other,Female,Less than high school,Less than high school,Some college,11.08307302951843,10.893031578584141,NA
+65,121,205,Other,Male,Less than high school,Less than high school,Some college,11.08307302951843,10.57741000830786,NA
+65,121,206,Other,Male,Less than high school,Less than high school,High school,11.08307302951843,10.57741000830786,NA
+65,122,208,Other,Female,Less than high school,Less than high school,High school,11.08307302951843,11.407533316097442,NA
+65,123,210,Other,Female,Less than high school,Less than high school,High school,11.08307302951843,10.830306253665217,NA
+65,123,211,Other,Female,Less than high school,Less than high school,High school,11.08307302951843,10.830306253665217,NA
+66,125,214,White,Female,High school,High school,Some college,11.90282765238184,12.026106891924877,NA
+66,125,215,White,Male,High school,High school,College,11.90282765238184,12.026106891924877,NA
+67,129,225,White,Female,Less than high school,High school,High school,11.939001248908246,10.748574825474394,NA
+67,129,227,White,Male,Less than high school,High school,High school,11.939001248908246,10.748574825474394,NA
+69,131,229,White,Male,High school,High school,College,11.601412910675059,11.980063424888407,NA
+69,132,234,White,Male,High school,Some college,Some college,11.601412910675059,10.571927890587029,NA
+70,133,235,White,Female,High school,Some college,Some college,11.299492604323007,10.743714845515264,NA
+72,135,239,White,Male,College,College,Some college,11.701640826184327,11.988981064743575,NA
+72,135,240,White,Female,College,College,College,11.701640826184327,11.988981064743575,NA
+73,136,241,White,Male,High school,College,Some college,11.655487447969254,11.988981064743575,NA
+73,137,243,White,Female,High school,Some college,College,11.655487447969254,11.485122656144359,NA
+74,138,247,White,Female,College,College,College,11.80102680879692,12.153202909666605,NA
+75,139,249,White,Female,High school,College,College,11.886490615592107,12.153202909666605,NA
+76,140,253,White,Female,High school,High school,College,11.479356198289246,11.737969344047086,NA
+77,141,254,White,Male,College,Some college,High school,12.333063458594546,11.070933461086467,NA
+77,141,256,White,Male,College,Some college,College,12.333063458594546,11.070933461086467,NA
+77,141,258,White,Male,College,Some college,High school,12.333063458594546,11.070933461086467,NA
+78,142,260,White,Female,Less than high school,Some college,College,12.396179077934944,11.070933461086467,NA
+78,142,261,White,Male,Less than high school,Some college,College,12.396179077934944,11.070933461086467,NA
+79,143,265,White,Male,High school,Less than high school,Some college,10.920196165984148,11.901949851112812,NA
+79,143,266,White,Male,High school,Less than high school,College,10.920196165984148,11.901949851112812,NA
+80,145,269,White,Male,Less than high school,High school,High school,11.22979635483195,11.35388681294288,NA
+80,145,270,White,Male,Less than high school,High school,High school,11.22979635483195,11.35388681294288,NA
+80,146,271,White,Female,Less than high school,High school,High school,11.22979635483195,11.102108778221142,NA
+80,146,273,White,Female,Less than high school,High school,High school,11.22979635483195,11.102108778221142,NA
+81,147,274,White,Male,High school,Less than high school,Less than high school,11.1455764747575,11.274885457949008,NA
+81,148,275,White,Male,High school,High school,Some college,11.1455764747575,11.35388681294288,NA
+81,148,277,White,Male,High school,High school,High school,11.1455764747575,11.35388681294288,NA
+81,149,279,White,Male,High school,High school,Some college,11.1455764747575,11.102108778221142,NA
+81,149,280,White,Female,High school,High school,High school,11.1455764747575,11.102108778221142,NA
+82,150,281,White,Male,Less than high school,High school,Some college,11.423717880409857,11.650820061702635,NA
+82,150,282,White,Male,Less than high school,High school,Some college,11.423717880409857,11.650820061702635,NA
+83,152,284,White,Male,Some college,High school,Some college,11.525515831776152,11.650820061702635,NA
+83,153,286,White,Male,Some college,College,College,11.525515831776152,11.801848520202194,NA
+85,155,288,White,Male,Less than high school,High school,Some college,11.264915263232888,11.15659550266479,NA
+86,156,290,White,Female,College,College,Some college,12.311855000377525,11.874275342782653,NA
+87,157,292,White,Female,High school,College,Some college,12.46848882621754,11.874275342782653,NA
+88,158,293,White,Female,High school,College,Some college,11.503969271750545,11.41479576736459,NA
+88,158,294,White,Male,High school,College,College,11.503969271750545,11.41479576736459,NA
+88,158,295,White,Female,High school,College,High school,11.503969271750545,11.41479576736459,NA
+88,159,297,White,Female,High school,College,College,11.503969271750545,11.17692969594315,NA
+89,160,299,White,Male,Some college,College,College,11.669641340962707,11.41479576736459,NA
+89,161,301,White,Male,Some college,College,College,11.669641340962707,11.17692969594315,NA
+89,161,302,White,Female,Some college,College,College,11.669641340962707,11.17692969594315,NA
+90,162,303,Black,Female,Less than high school,Less than high school,High school,9.888053450808911,9.946364845053663,NA
+91,163,306,White,Male,High school,High school,Some college,11.284941039609569,11.242075970617268,NA
+92,164,308,White,Male,High school,High school,Some college,11.284941039609569,11.242075970617268,NA
+93,165,310,White,Female,Less than high school,College,College,10.753517205321366,11.55446898552349,NA
+94,166,312,White,Male,College,Some college,College,12.697132192650507,11.754162843170544,NA
+94,166,313,White,Male,College,Some college,College,12.697132192650507,11.754162843170544,NA
+95,167,315,White,Male,College,Some college,College,12.608990007498372,11.754162843170544,NA
+98,170,320,White,Male,High school,High school,High school,11.284123877275725,10.957044636811156,NA
+99,171,321,White,Female,High school,High school,Some college,11.78639093042054,11.50316148721493,NA
+99,171,322,White,Male,High school,High school,Some college,11.78639093042054,11.50316148721493,NA
+100,172,323,White,Female,Less than high school,High school,Some college,11.342783540159902,11.50316148721493,NA
+100,172,324,White,Male,Less than high school,High school,Some college,11.342783540159902,11.50316148721493,NA
+101,173,327,White,Male,High school,Less than high school,Some college,10.840585197661623,11.76585464432858,NA
+102,174,329,White,Female,Some college,High school,High school,11.376660013828252,10.993371920089405,NA
+102,175,331,White,Male,Some college,College,College,11.376660013828252,11.627596500724728,NA
+102,175,332,White,Male,Some college,College,College,11.376660013828252,11.627596500724728,NA
+103,176,334,White,Female,Some college,High school,High school,11.46445402947064,10.993371920089405,NA
+103,177,336,White,Female,Some college,College,College,11.46445402947064,11.627596500724728,NA
+103,177,337,White,Male,Some college,College,College,11.46445402947064,11.627596500724728,NA
+103,177,338,White,Male,Some college,College,College,11.46445402947064,11.627596500724728,NA
+103,177,339,White,Male,Some college,College,College,11.46445402947064,11.627596500724728,NA
+104,178,340,White,Female,Less than high school,High school,College,10.914394846189449,10.931314392298775,NA
+106,181,348,White,Female,High school,Less than high school,High school,11.375075438303265,11.1034901247388,NA
+109,185,353,White,Male,College,High school,Some college,12.181541383140859,11.984584200013737,NA
+111,187,355,White,Male,Less than high school,Some college,College,11.137336887560098,10.859220591370487,NA
+112,188,357,White,Female,High school,Some college,College,11.81751605837158,12.278407884178662,NA
+112,188,358,White,Female,High school,Some college,Some college,11.81751605837158,12.278407884178662,NA
+112,190,361,White,Male,High school,High school,High school,11.81751605837158,11.60264973417246,NA
+113,191,362,White,Female,High school,High school,Some college,10.880676180002231,11.996492467343227,NA
+113,191,363,White,Female,High school,High school,Some college,10.880676180002231,11.996492467343227,NA
+113,192,365,White,Female,High school,High school,High school,10.880676180002231,11.465783723091615,NA
+114,193,366,White,Female,Less than high school,High school,Some college,10.990229128145794,11.996492467343227,NA
+114,194,368,White,Male,Less than high school,High school,High school,10.990229128145794,11.465783723091615,NA
+115,195,371,White,Male,Less than high school,Less than high school,High school,10.802767081378414,11.653835579826284,NA
+115,198,376,White,Female,Less than high school,Less than high school,Less than high school,10.802767081378414,10.886748841247059,NA
+116,199,377,White,Male,Less than high school,High school,High school,11.383829189633389,11.447870167469882,NA
+117,200,378,White,Male,Some college,High school,College,11.381182128590353,11.305749842851409,NA
+119,203,382,Black,Female,Less than high school,Some college,High school,10.047753281076728,11.230123536746332,NA
+120,204,385,White,Male,Less than high school,College,College,11.252503103696982,12.585651140385208,NA
+120,204,386,White,Male,Less than high school,College,Some college,11.252503103696982,12.585651140385208,NA
+120,205,388,White,Female,Less than high school,College,College,11.252503103696982,11.83441052542148,NA
+121,206,389,White,Male,Less than high school,High school,High school,11.390475138538445,11.214524419000186,NA
+122,207,390,White,Male,Less than high school,High school,High school,11.390475138538445,11.214524419000186,NA
+123,208,391,White,Male,Less than high school,Less than high school,Some college,11.534720357883689,11.20125798920013,NA
+124,209,392,White,Male,Less than high school,College,Some college,11.391323454749843,11.915066083676924,NA
+125,211,396,White,Female,Less than high school,Less than high school,Some college,11.65450216150855,11.19811727898649,NA
+126,214,400,White,Male,College,College,College,12.233674917027335,12.932996771340585,NA
+126,214,401,White,Male,College,College,College,12.233674917027335,12.932996771340585,NA
+127,215,402,White,Female,Some college,Less than high school,Some college,11.87265044474138,11.555210675175138,NA
+129,217,405,White,Male,Some college,High school,Some college,12.080438565941787,11.662859467465656,NA
+129,218,406,White,Male,Some college,High school,Some college,12.080438565941787,11.58804122679811,NA
+129,218,407,White,Female,Some college,High school,High school,12.080438565941787,11.58804122679811,NA
+130,219,409,White,Male,High school,High school,High school,12.326106422256544,11.662859467465656,NA
+130,219,410,White,Male,High school,High school,Some college,12.326106422256544,11.662859467465656,NA
+130,220,411,White,Male,High school,High school,Some college,12.326106422256544,11.58804122679811,NA
+131,221,414,White,Male,High school,Some college,Some college,11.725678054794402,11.872167539287034,NA
+131,221,415,White,Male,High school,Some college,Some college,11.725678054794402,11.872167539287034,NA
+135,225,420,White,Male,High school,College,College,11.931439700649674,12.017065293678968,NA
+136,226,421,White,Male,High school,College,College,12.013541069474478,12.017065293678968,NA
+137,227,422,White,Male,Less than high school,Less than high school,High school,11.699860291533119,10.712376443694792,NA
+137,228,424,White,Male,Less than high school,High school,Less than high school,11.699860291533119,11.355663047356096,NA
+137,228,425,White,Female,Less than high school,High school,Some college,11.699860291533119,11.355663047356096,NA
+137,229,426,White,Female,Less than high school,Less than high school,Some college,11.699860291533119,10.46150733062188,NA
+137,230,428,White,Male,Less than high school,High school,Less than high school,11.699860291533119,10.894191293105003,NA
+138,232,430,White,Male,Less than high school,High school,High school,10.906311867692857,11.355663047356096,NA
+138,233,433,White,Female,Less than high school,Less than high school,Some college,10.906311867692857,10.46150733062188,NA
+138,233,434,White,Male,Less than high school,Less than high school,High school,10.906311867692857,10.46150733062188,NA
+139,235,436,White,Female,Less than high school,Some college,High school,11.753462777476962,11.242346914717164,NA
+140,236,437,White,Female,Less than high school,Some college,High school,11.519232669374762,11.242346914717164,NA
+141,237,438,White,Female,Less than high school,Less than high school,High school,11.500143224486601,10.291671026686075,NA
+141,237,439,White,Female,Less than high school,Less than high school,High school,11.500143224486601,10.291671026686075,NA
+143,239,443,White,Female,Less than high school,High school,High school,11.728595151235044,11.268721621069917,NA
+144,240,444,White,Male,High school,Some college,High school,11.937273616009799,11.443204785798708,NA
+144,240,445,White,Male,High school,Some college,Some college,11.937273616009799,11.443204785798708,NA
+144,241,446,White,Male,High school,High school,High school,11.937273616009799,11.530469411081564,NA
+145,243,449,White,Male,High school,High school,High school,12.006627866765152,11.530469411081564,NA
+147,245,451,White,Male,High school,High school,Some college,11.154621673452127,10.42909183706423,NA
+149,247,453,White,Male,Less than high school,High school,Some college,10.790184515929262,11.602587597333047,NA
+149,247,454,White,Male,Less than high school,High school,Some college,10.790184515929262,11.602587597333047,NA
+149,248,456,White,Male,Less than high school,Some college,Some college,10.790184515929262,11.71905544362464,NA
+150,249,457,White,Male,Less than high school,High school,Some college,11.70999407661933,11.566743156010778,NA
+150,249,458,White,Male,Less than high school,High school,Some college,11.70999407661933,11.566743156010778,NA
+152,251,461,White,Female,Less than high school,Some college,Some college,12.167171341918127,11.145475713401465,NA
+154,253,463,White,Male,High school,High school,College,11.31392705464155,11.579354714459718,NA
+155,255,465,White,Female,Some college,College,College,12.590405125466908,11.241050607621007,NA
+155,255,466,White,Female,Some college,College,Some college,12.590405125466908,11.241050607621007,NA
+155,256,467,White,Female,Some college,Some college,College,12.590405125466908,11.65929122322598,NA
+156,258,469,White,Female,High school,College,College,12.546192788016189,11.241050607621007,NA
+156,258,470,White,Female,High school,College,Some college,12.546192788016189,11.241050607621007,NA
+157,260,472,White,Male,High school,Some college,High school,11.585839470365222,11.464840969529682,NA
+157,260,473,White,Male,High school,Some college,Some college,11.585839470365222,11.464840969529682,NA
+158,261,474,White,Male,High school,Some college,High school,11.490773931060614,11.464840969529682,NA
+161,264,481,White,Male,Less than high school,High school,College,11.069325177561739,11.242794494838655,NA
+161,265,482,White,Male,Less than high school,High school,High school,11.069325177561739,11.488799448326187,NA
+162,266,483,White,Male,Less than high school,High school,High school,11.16644456067009,11.242794494838655,NA
+163,268,486,White,Male,Some college,High school,College,11.083900829452386,11.45275175754376,NA
+165,270,488,White,Female,College,Some college,Some college,12.04694454567972,11.479608039574794,NA
+165,270,489,White,Female,College,Some college,Some college,12.04694454567972,11.479608039574794,NA
+166,271,491,White,Female,Less than high school,Some college,Some college,12.053464508133109,11.479608039574794,NA
+167,272,492,White,Female,High school,High school,High school,11.462676182481712,11.87506285597187,NA
+168,273,495,White,Female,High school,High school,High school,11.507310364171541,11.87506285597187,NA
+169,274,496,White,Female,Some college,High school,Some college,11.324820856118645,11.624034014723327,NA
+169,274,497,White,Male,Some college,High school,High school,11.324820856118645,11.624034014723327,NA
+169,275,499,White,Male,Some college,High school,High school,11.324820856118645,11.849908940672208,NA
+169,276,500,White,Female,Some college,Some college,College,11.324820856118645,11.991301590853062,NA
+170,277,502,White,Female,High school,High school,Some college,11.124985913910812,11.624034014723327,NA
+170,277,503,White,Male,High school,High school,High school,11.124985913910812,11.624034014723327,NA
+170,278,504,White,Male,High school,High school,College,11.124985913910812,11.849908940672208,NA
+170,278,505,White,Male,High school,High school,High school,11.124985913910812,11.849908940672208,NA
+170,279,507,White,Male,High school,Some college,College,11.124985913910812,11.991301590853062,NA
+171,280,508,White,Female,Less than high school,High school,Less than high school,11.057132896883578,11.254445213484395,NA
+173,282,510,White,Female,High school,Less than high school,High school,11.009633613404437,10.736426824335602,NA
+173,282,511,White,Female,High school,Less than high school,High school,11.009633613404437,10.736426824335602,NA
+173,282,512,White,Male,High school,Less than high school,High school,11.009633613404437,10.736426824335602,NA
+173,283,513,White,Male,High school,High school,Some college,11.009633613404437,8.82402234277723,NA
+173,284,514,White,Female,High school,High school,College,11.009633613404437,11.185512935451523,NA
+174,287,521,White,Male,Less than high school,High school,Some college,11.009353462044894,8.82402234277723,NA
+174,288,524,White,Female,Less than high school,High school,Some college,11.009353462044894,11.185512935451523,NA
+175,290,526,White,Female,Less than high school,Some college,High school,11.285373446633539,11.297157951977132,NA
+175,290,527,White,Female,Less than high school,Some college,High school,11.285373446633539,11.297157951977132,NA
+176,291,529,White,Female,High school,Some college,High school,11.293156559326187,11.297157951977132,NA
+177,292,530,White,Male,Less than high school,High school,College,11.302473057689275,11.287529751140136,NA
+177,293,531,White,Female,Less than high school,High school,College,11.302473057689275,12.014155184633186,NA
+178,295,534,White,Female,High school,High school,College,11.607208450772767,12.014155184633186,NA
+178,295,535,White,Female,High school,High school,College,11.607208450772767,12.014155184633186,NA
+181,298,541,White,Female,High school,College,College,11.703782816556956,11.600346325441533,NA
+182,299,542,White,Male,High school,College,Some college,11.530621648013119,11.523853296339652,NA
+185,302,546,Black,Female,Less than high school,College,College,11.585618621916062,11.47241962280504,NA
+186,303,547,White,Female,College,Some college,Some college,12.372386485118328,11.972878610616332,NA
+186,303,548,White,Female,College,Some college,High school,12.372386485118328,11.972878610616332,NA
+187,304,549,White,Female,Less than high school,High school,Some college,11.485066703698998,11.135776471074111,NA
+188,306,554,White,Female,High school,High school,College,11.87630505609883,11.057092353760487,NA
+189,307,556,White,Female,High school,High school,College,11.87630505609883,11.057092353760487,NA
+189,307,557,White,Female,High school,High school,College,11.87630505609883,11.057092353760487,NA
+190,308,558,White,Female,Less than high school,High school,College,11.603645921988724,11.466296458083722,NA
+190,309,559,White,Male,Less than high school,High school,College,11.603645921988724,11.558104319662975,NA
+191,310,560,White,Female,Less than high school,High school,College,11.543841502331697,11.466296458083722,NA
+192,313,564,White,Female,College,Some college,College,11.968432497357643,11.907139882484941,NA
+192,313,565,White,Female,College,Some college,College,11.968432497357643,11.907139882484941,NA
+192,314,568,White,Female,College,Some college,Some college,11.968432497357643,11.66038915189889,NA
+193,315,569,White,Female,Less than high school,High school,Some college,11.933954700856043,11.409474146305104,NA
+193,315,570,White,Female,Less than high school,High school,Some college,11.933954700856043,11.409474146305104,NA
+193,316,573,White,Male,Less than high school,Some college,Some college,11.933954700856043,11.907139882484941,NA
+196,320,579,White,Female,Less than high school,Some college,Some college,12.10831638715302,11.485766874645526,NA
+198,322,582,White,Female,Less than high school,High school,Some college,11.339811648294589,11.778803835507768,NA
+198,322,583,White,Male,Less than high school,High school,High school,11.339811648294589,11.778803835507768,NA
+198,322,585,White,Female,Less than high school,High school,Some college,11.339811648294589,11.778803835507768,NA
+200,324,590,White,Female,High school,Some college,College,12.163422941513085,12.139984812562359,NA
+201,326,592,White,Male,Less than high school,High school,High school,9.944501153240884,11.20963973635455,NA
+202,328,595,White,Male,High school,High school,High school,11.461911686373432,11.480858320444737,NA
+203,329,596,Other,Male,High school,College,High school,11.530006383979602,11.182694688522846,NA
+205,332,602,White,Male,College,College,College,11.75709102224507,11.565983499819295,NA
+205,332,603,White,Female,College,College,High school,11.75709102224507,11.565983499819295,NA
+206,333,607,White,Female,Less than high school,College,High school,11.806430798069286,11.565983499819295,NA
+206,333,608,White,Female,Less than high school,College,Some college,11.806430798069286,11.565983499819295,NA
+207,334,610,White,Male,High school,Some college,Less than high school,11.930079629958554,11.96979271200252,NA
+208,337,615,White,Female,Less than high school,High school,High school,11.362519370610185,11.539527513786979,NA
+208,337,616,White,Female,Less than high school,High school,Some college,11.362519370610185,11.539527513786979,NA
+208,338,617,White,Female,Less than high school,High school,College,11.362519370610185,11.564613747839713,NA
+209,339,618,Black,Female,Less than high school,High school,Some college,11.112951545765508,10.520413960041825,NA
+210,340,619,Black,Female,Less than high school,Less than high school,Less than high school,10.936629501525728,9.256659880189302,NA
+210,341,622,Black,Female,Less than high school,Less than high school,High school,10.936629501525728,8.95272199124618,NA
+210,342,623,Black,Female,Less than high school,Less than high school,High school,10.936629501525728,10.684004397293554,NA
+210,343,626,Black,Male,Less than high school,Less than high school,Less than high school,10.936629501525728,8.744756075672184,NA
+212,347,632,White,Female,High school,College,College,12.574408252597555,12.101468782464805,NA
+213,348,635,White,Male,Less than high school,College,College,11.963553426157613,12.45430805930063,NA
+213,349,637,White,Female,Less than high school,Some college,Some college,11.963553426157613,11.370514496000938,NA
+213,349,638,White,Male,Less than high school,Some college,High school,11.963553426157613,11.370514496000938,NA
+214,350,639,White,Female,Some college,College,College,11.85813985002022,12.45430805930063,NA
+214,351,642,White,Female,Some college,Some college,Some college,11.85813985002022,11.370514496000938,NA
+215,352,645,White,Male,Some college,High school,College,11.728072673860165,11.369713804001965,NA
+216,354,648,White,Male,High school,High school,College,11.786946584195244,11.369713804001965,NA
+218,357,654,White,Male,High school,High school,Some college,11.526363963101225,11.795120793989124,NA
+223,362,661,White,Female,High school,High school,College,11.77169909449939,11.030248820921594,NA
+227,366,666,White,Female,Less than high school,Less than high school,Some college,11.613110476027478,11.592617612019835,NA
+228,367,667,White,Female,Less than high school,Less than high school,Some college,11.600151737552157,11.592617612019835,NA
+229,368,669,White,Male,Less than high school,College,College,10.444151237709095,11.713184185954507,NA
+230,369,670,White,Female,High school,Some college,Some college,11.692910975012763,11.306143987821132,NA
+230,370,672,White,Female,High school,Some college,College,11.692910975012763,11.333538046486224,NA
+230,370,674,White,Female,High school,Some college,College,11.692910975012763,11.333538046486224,NA
+231,371,675,White,Female,High school,Some college,Some college,11.698351434919488,11.306143987821132,NA
+231,371,676,White,Male,High school,Some college,College,11.698351434919488,11.306143987821132,NA
+231,372,677,White,Female,High school,Some college,College,11.698351434919488,11.333538046486224,NA
+231,372,678,White,Female,High school,Some college,College,11.698351434919488,11.333538046486224,NA
+232,373,680,White,Male,High school,Some college,College,11.273319269571521,10.890234026341398,NA
+233,374,685,White,Female,Some college,Some college,College,11.317693174533769,10.890234026341398,NA
+234,375,686,White,Female,High school,College,College,11.55612987568408,12.039864449083103,NA
+234,376,687,White,Male,High school,Some college,College,11.55612987568408,10.971857309379782,NA
+234,376,688,White,Female,High school,Some college,Some college,11.55612987568408,10.971857309379782,NA
+235,377,690,White,Female,High school,College,College,11.722627518536147,12.039864449083103,NA
+235,378,691,White,Male,High school,Some college,College,11.722627518536147,10.971857309379782,NA
+235,378,693,White,Female,High school,Some college,Some college,11.722627518536147,10.971857309379782,NA
+236,379,694,White,Female,College,Some college,College,11.75494065731482,11.058927430656254,NA
+236,380,695,White,Male,College,Some college,College,11.75494065731482,11.543352493365589,NA
+236,381,697,White,Male,College,Some college,Some college,11.75494065731482,11.924187634509147,NA
+238,384,702,White,Female,High school,College,College,11.39248417833985,11.09409217850659,NA
+238,385,704,White,Female,High school,High school,Less than high school,11.39248417833985,11.205529193087044,NA
+239,386,706,White,Female,Less than high school,High school,High school,11.112881050510657,10.924910783666663,NA
+239,386,707,White,Female,Less than high school,High school,College,11.112881050510657,10.924910783666663,NA
+239,386,708,White,Male,Less than high school,High school,High school,11.112881050510657,10.924910783666663,NA
+241,388,711,White,Female,High school,College,College,11.778357325265178,12.589550922844738,NA
+242,389,713,White,Male,Less than high school,High school,Some college,10.88849620286336,11.447788421806461,NA
+242,389,714,White,Male,Less than high school,High school,College,10.88849620286336,11.447788421806461,NA
+243,391,717,White,Male,Less than high school,High school,High school,10.699208317532914,11.06083574098533,NA
+244,393,719,White,Female,High school,High school,High school,10.760119358624666,11.06083574098533,NA
+245,394,722,White,Male,High school,High school,High school,11.187465300266286,11.06083574098533,NA
+246,395,723,White,Male,College,College,College,11.488231690702536,12.665432425069204,NA
+248,397,726,White,Female,Less than high school,High school,Some college,11.47154273125059,10.974631276969092,NA
+249,398,727,White,Female,Less than high school,High school,College,10.935733121662073,11.254086205936728,NA
+250,399,728,White,Female,Less than high school,High school,College,10.758746339803182,11.254086205936728,NA
+253,402,731,White,Male,Less than high school,Some college,College,10.895463436321556,11.000155983964326,NA
+254,403,732,White,Male,Less than high school,Some college,College,11.097719374354392,11.000155983964326,NA
+255,404,733,Black,Male,High school,High school,Some college,10.411681935278796,10.462790969880045,NA
+255,404,734,Black,Male,High school,High school,Some college,10.411681935278796,10.462790969880045,NA
+256,405,737,White,Female,College,College,College,12.14250277126128,12.019179755889594,NA
+256,406,739,White,Male,College,Some college,College,12.14250277126128,12.454460127415045,NA
+256,407,740,White,Male,College,College,College,12.14250277126128,12.309064744482408,NA
+256,407,741,White,Male,College,College,Less than high school,12.14250277126128,12.309064744482408,NA
+257,408,743,White,Male,Less than high school,College,College,12.146141713133945,12.019179755889594,NA
+257,410,745,White,Male,Less than high school,College,College,12.146141713133945,12.309064744482408,NA
+259,412,750,White,Female,Some college,Some college,College,12.154361976119288,12.033384272650968,NA
+259,412,752,White,Female,Some college,Some college,High school,12.154361976119288,12.033384272650968,NA
+261,414,754,White,Male,Less than high school,Some college,College,11.825113392934236,11.815836794972775,NA
+262,415,755,White,Female,Less than high school,Less than high school,Some college,11.356830714309961,9.832716283287755,NA
+263,417,759,White,Female,Less than high school,Less than high school,Some college,11.258727138834734,9.832716283287755,NA
+263,418,760,White,Male,Less than high school,Less than high school,Some college,11.258727138834734,11.602182530984148,NA
+264,419,764,Black,Female,Less than high school,High school,Some college,9.668498369432074,10.309255802786161,NA
+264,419,765,Black,Female,Less than high school,High school,High school,9.668498369432074,10.309255802786161,NA
+265,420,766,White,Female,Some college,High school,Some college,11.410753135498043,11.423013194987613,NA
+266,421,768,White,Male,Less than high school,Some college,Some college,12.213042194301575,10.55195563483195,NA
+267,423,770,White,Female,Some college,High school,High school,11.96888785090679,11.749771032080844,NA
+267,423,771,White,Female,Some college,High school,High school,11.96888785090679,11.749771032080844,NA
+268,424,772,White,Female,Less than high school,Less than high school,Some college,10.408777847194612,10.331014955570204,NA
+269,427,777,White,Female,Less than high school,Less than high school,High school,10.360974555982667,10.110989372196512,NA
+269,427,778,White,Female,Less than high school,Less than high school,High school,10.360974555982667,10.110989372196512,NA
+269,427,779,White,Male,Less than high school,Less than high school,High school,10.360974555982667,10.110989372196512,NA
+269,428,781,White,Female,Less than high school,Less than high school,Less than high school,10.360974555982667,10.66900287777182,NA
+269,428,782,White,Female,Less than high school,Less than high school,High school,10.360974555982667,10.66900287777182,NA
+269,429,783,White,Female,Less than high school,Less than high school,High school,10.360974555982667,11.058506005033065,NA
+271,431,788,White,Female,Less than high school,Less than high school,Some college,10.334580259431831,11.218373773017957,NA
+271,431,790,White,Female,Less than high school,Less than high school,High school,10.334580259431831,11.218373773017957,NA
+272,432,792,White,Male,Less than high school,Some college,College,11.435763557380135,11.720112445793827,NA
+274,434,794,White,Female,Less than high school,Less than high school,High school,10.560361690069161,11.03247754325683,NA
+274,435,797,White,Female,Less than high school,High school,Some college,10.560361690069161,11.153865428793432,NA
+275,436,798,White,Female,Less than high school,Less than high school,High school,10.565551738097225,11.03247754325683,NA
+275,437,801,White,Female,Less than high school,High school,Some college,10.565551738097225,11.153865428793432,NA
+276,438,802,White,Female,Some college,Some college,Some college,11.346626318538267,11.672877842100132,NA
+277,439,803,White,Female,High school,Some college,Some college,11.368040474084628,11.672877842100132,NA
+279,441,805,White,Female,Less than high school,High school,College,11.335796930654368,11.82329559955542,NA
+280,442,806,White,Female,College,Some college,College,11.636751824868929,11.603078893271086,NA
+282,444,810,White,Female,High school,High school,High school,11.373091493415037,11.705965888016301,NA
+282,444,811,White,Male,High school,High school,High school,11.373091493415037,11.705965888016301,NA
+283,445,812,White,Female,High school,High school,High school,11.373091493415037,11.705965888016301,NA
+284,447,816,White,Female,High school,High school,Some college,11.744209557732004,11.182020904224817,NA
+285,448,818,White,Male,High school,College,High school,11.86957242333592,11.374554537766096,NA
+285,449,819,White,Female,High school,High school,Some college,11.86957242333592,11.182020904224817,NA
+286,451,821,White,Female,Some college,High school,Some college,11.35966458231563,11.137863875832137,NA
+287,453,823,White,Female,High school,High school,Some college,11.53724823889829,11.137863875832137,NA
+290,456,828,White,Male,Some college,College,College,12.022388172144463,11.711530837369464,NA
+291,457,830,White,Male,High school,College,College,12.022388172144463,11.711530837369464,NA
+292,458,832,White,Female,Less than high school,Some college,College,11.824017302825277,11.841690603509885,NA
+293,459,833,White,Female,Less than high school,Some college,College,11.89875386114218,11.841690603509885,NA
+294,461,835,White,Male,Less than high school,Less than high school,Some college,10.420099658067395,10.679544126521021,NA
+294,461,836,White,Female,Less than high school,Less than high school,Some college,10.420099658067395,10.679544126521021,NA
+295,463,839,White,Female,Less than high school,Less than high school,Some college,10.376542505982792,10.679544126521021,NA
+296,464,841,White,Male,Less than high school,Less than high school,Some college,10.37865142184048,11.50945349691856,NA
+296,465,842,White,Male,Less than high school,Some college,High school,10.37865142184048,10.972351896989116,NA
+297,466,843,White,Female,Less than high school,High school,College,11.202593523072611,11.553794558568487,NA
+300,469,848,White,Male,High school,Some college,Some college,11.143589971974956,11.862926131208019,NA
+301,470,849,White,Male,Less than high school,High school,College,10.672036165271804,10.994928144543527,NA
+301,470,850,White,Female,Less than high school,High school,High school,10.672036165271804,10.994928144543527,NA
+301,470,851,White,Male,Less than high school,High school,High school,10.672036165271804,10.994928144543527,NA
+302,471,852,Other,Male,High school,Less than high school,College,11.734095835593374,12.306277626682013,NA
+302,471,853,Other,Female,High school,Less than high school,College,11.734095835593374,12.306277626682013,NA
+302,473,856,Other,Male,High school,High school,Less than high school,11.734095835593374,11.063718741467884,NA
+302,473,857,Other,Male,High school,High school,High school,11.734095835593374,11.063718741467884,NA
+303,474,859,White,Female,Less than high school,Less than high school,College,11.764582717620154,12.306277626682013,NA
+303,475,860,White,Male,Less than high school,Less than high school,High school,11.764582717620154,11.441401551818844,NA
+303,476,862,White,Male,Less than high school,High school,Less than high school,11.764582717620154,11.063718741467884,NA
+304,477,864,White,Female,High school,Some college,College,11.674894798306305,11.709753721990815,NA
+304,477,865,White,Female,High school,Some college,Some college,11.674894798306305,11.709753721990815,NA
+305,478,867,White,Female,High school,Some college,College,11.68642698962848,11.709753721990815,NA
+305,478,869,White,Male,High school,Some college,College,11.68642698962848,11.709753721990815,NA
+307,480,871,White,Male,Less than high school,College,High school,11.72843181285685,11.586663051036743,NA
+308,481,872,White,Female,High school,Some college,College,11.476670020261052,11.56929675160941,NA
+310,483,877,White,Female,High school,College,College,11.309485612283945,11.656456820366698,NA
+310,485,880,White,Male,High school,College,College,11.309485612283945,11.550242601111002,NA
+310,485,881,White,Male,High school,College,College,11.309485612283945,11.550242601111002,NA
+310,487,885,White,Male,High school,College,College,11.309485612283945,11.809935022812072,NA
+311,488,887,White,Female,High school,College,College,11.314890793636831,11.656456820366698,NA
+311,489,888,White,Male,High school,College,College,11.314890793636831,11.482308636569895,NA
+311,490,890,White,Male,High school,College,College,11.314890793636831,11.550242601111002,NA
+311,490,891,White,Male,High school,College,College,11.314890793636831,11.550242601111002,NA
+311,491,892,White,Male,High school,Some college,College,11.314890793636831,11.64526788545925,NA
+311,491,894,White,Female,High school,Some college,College,11.314890793636831,11.64526788545925,NA
+312,493,897,White,Female,Less than high school,High school,Some college,11.421931619022184,11.372226689422714,NA
+312,494,898,White,Male,Less than high school,High school,Some college,11.421931619022184,10.95067210602821,NA
+313,495,900,White,Female,Less than high school,High school,Some college,11.5354746214921,11.372226689422714,NA
+314,497,902,White,Female,Less than high school,High school,High school,11.129815144674904,10.850873917512551,NA
+315,498,904,White,Female,Less than high school,High school,High school,11.104752858065126,10.850873917512551,NA
+315,498,905,White,Female,Less than high school,High school,Less than high school,11.104752858065126,10.850873917512551,NA
+316,499,906,Black,Male,Less than high school,High school,Some college,10.794408896274923,10.033248372020566,NA
+317,501,908,White,Female,Less than high school,College,Some college,11.331801061824484,11.61632282431316,NA
+319,503,910,White,Female,Less than high school,Some college,College,11.487420601859519,11.644276673366916,NA
+322,506,913,White,Male,High school,High school,College,11.606424634896221,11.477415480043282,NA
+322,506,914,White,Male,High school,High school,College,11.606424634896221,11.477415480043282,NA
+322,507,915,White,Male,High school,High school,Some college,11.606424634896221,11.297560458327268,NA
+322,507,916,White,Male,High school,High school,Some college,11.606424634896221,11.297560458327268,NA
+322,508,918,White,Female,High school,High school,College,11.606424634896221,11.67876327414275,NA
+323,509,919,White,Male,Less than high school,High school,College,11.604255969789582,11.477415480043282,NA
+323,509,920,White,Male,Less than high school,High school,College,11.604255969789582,11.477415480043282,NA
+323,510,921,White,Male,Less than high school,High school,Some college,11.604255969789582,11.297560458327268,NA
+323,510,922,White,Male,Less than high school,High school,Some college,11.604255969789582,11.297560458327268,NA
+323,511,923,White,Female,Less than high school,High school,College,11.604255969789582,11.67876327414275,NA
+323,511,924,White,Female,Less than high school,High school,College,11.604255969789582,11.67876327414275,NA
+324,513,926,White,Female,Less than high school,High school,College,11.81620430919343,12.055834975634868,NA
+324,514,928,White,Female,Less than high school,Some college,College,11.81620430919343,11.858891009729764,NA
+325,515,929,White,Female,High school,High school,College,11.81620430919343,11.968778230652335,NA
+325,516,930,White,Female,High school,High school,College,11.81620430919343,12.055834975634868,NA
+325,516,931,White,Male,High school,High school,Some college,11.81620430919343,12.055834975634868,NA
+325,517,932,White,Female,High school,Some college,College,11.81620430919343,11.858891009729764,NA
+326,518,933,White,Male,Less than high school,High school,High school,11.67255465532657,10.20614310775272,NA
+326,518,934,White,Male,Less than high school,High school,High school,11.67255465532657,10.20614310775272,NA
+327,519,935,White,Male,High school,High school,High school,11.62695506726612,10.20614310775272,NA
+327,519,936,White,Male,High school,High school,High school,11.62695506726612,10.20614310775272,NA
+328,520,937,White,Male,High school,High school,Some college,11.751425016726596,11.786593596154665,NA
+329,521,938,White,Male,Less than high school,College,College,11.775519701066232,11.554146792555148,NA
+331,523,940,White,Male,High school,College,Some college,11.418493773615994,12.133576343930887,NA
+331,523,941,White,Male,High school,College,College,11.418493773615994,12.133576343930887,NA
+332,524,943,White,Male,High school,College,Some college,11.42169639092951,12.133576343930887,NA
+332,524,944,White,Male,High school,College,College,11.42169639092951,12.133576343930887,NA
+332,524,945,White,Female,High school,College,College,11.42169639092951,12.133576343930887,NA
+333,525,948,White,Female,Less than high school,Some college,College,10.956645096812734,11.29484229938618,NA
+333,527,952,White,Female,Less than high school,High school,College,10.956645096812734,11.050652586336588,NA
+334,528,955,White,Male,High school,High school,High school,11.519750421950675,11.532779702488467,NA
+334,528,956,White,Male,High school,High school,High school,11.519750421950675,11.532779702488467,NA
+335,529,957,White,Male,High school,College,College,11.683891262414901,12.317707041304377,NA
+335,529,958,White,Female,High school,College,College,11.683891262414901,12.317707041304377,NA
+335,530,960,White,Female,High school,College,College,11.683891262414901,12.217660033906917,NA
+335,531,961,White,Male,High school,College,College,11.683891262414901,12.110318041006712,NA
+336,532,964,White,Female,High school,College,College,11.646885216168185,12.317707041304377,NA
+336,533,965,White,Female,High school,College,College,11.646885216168185,12.217660033906917,NA
+337,535,967,White,Male,Less than high school,High school,High school,11.211558442173635,11.535242303135403,NA
+337,535,969,White,Male,Less than high school,High school,Less than high school,11.211558442173635,11.535242303135403,NA
+340,539,979,White,Female,Less than high school,College,College,11.577614708628017,12.046741121476295,NA
+340,540,982,White,Male,Less than high school,Some college,College,11.577614708628017,11.744022818801323,NA
+341,541,983,White,Female,Some college,College,College,12.492992601508622,12.492094125867272,NA
+341,542,984,White,Female,Some college,College,College,12.492992601508622,12.998890228446403,NA
+341,542,985,White,Male,Some college,College,College,12.492992601508622,12.998890228446403,NA
+342,544,987,White,Female,College,College,College,12.527855146545617,12.998890228446403,NA
+342,544,988,White,Male,College,College,College,12.527855146545617,12.998890228446403,NA
+343,545,989,White,Female,High school,Some college,Some college,11.91382422290404,11.585995514078881,NA
+343,545,990,White,Male,High school,Some college,High school,11.91382422290404,11.585995514078881,NA
+344,547,992,White,Female,High school,Some college,Some college,11.861537536907614,11.585995514078881,NA
+344,548,994,White,Female,High school,Some college,College,11.861537536907614,12.819560187618261,NA
+345,549,996,White,Male,Less than high school,Some college,High school,11.07976367319139,11.424326542471224,NA
+346,551,999,White,Female,Less than high school,High school,College,10.758613606511348,11.267424629430675,NA
+346,551,1000,White,Male,Less than high school,High school,Some college,10.758613606511348,11.267424629430675,NA
+347,552,1002,White,Female,High school,Some college,College,10.721583237834691,12.487720195085625,NA
+349,554,1005,White,Female,College,High school,High school,12.582812944963882,11.30074672212469,NA
+349,554,1006,White,Female,College,High school,High school,12.582812944963882,11.30074672212469,NA
+349,555,1007,White,Female,College,College,College,12.582812944963882,12.113289382346524,NA
+349,555,1008,White,Male,College,College,Some college,12.582812944963882,12.113289382346524,NA
+350,556,1010,White,Female,College,High school,High school,12.407797013816085,11.30074672212469,NA
+350,557,1011,White,Female,College,College,College,12.407797013816085,12.113289382346524,NA
+350,557,1012,White,Male,College,College,Some college,12.407797013816085,12.113289382346524,NA
+352,559,1016,White,Female,High school,College,High school,11.698185186158577,11.832508821235924,NA
+352,560,1018,White,Male,High school,College,College,11.698185186158577,12.304179785843253,NA
+353,564,1026,White,Female,High school,College,College,11.665728803486777,11.626011135685783,NA
+354,565,1027,White,Male,High school,Some college,High school,10.88655199808537,11.48702142774546,NA
+355,566,1028,Black,Male,High school,High school,High school,11.649830444537493,11.325208626417545,NA
+356,567,1029,White,Female,Less than high school,High school,College,11.50094092134466,11.370680116378182,NA
+357,568,1030,White,Female,Some college,High school,College,11.498909606193356,11.370680116378182,NA
+358,569,1031,White,Male,Less than high school,Less than high school,High school,11.12633501348381,11.144362479653351,NA
+358,570,1034,White,Male,Less than high school,Some college,College,11.12633501348381,11.579987884559927,NA
+358,570,1036,White,Female,Less than high school,Some college,High school,11.12633501348381,11.579987884559927,NA
+358,571,1038,White,Male,Less than high school,High school,College,11.12633501348381,11.434321534187252,NA
+358,573,1043,White,Male,Less than high school,High school,High school,11.12633501348381,10.576395536603243,NA
+358,573,1044,White,Male,Less than high school,High school,Less than high school,11.12633501348381,10.576395536603243,NA
+358,574,1046,White,Female,Less than high school,High school,High school,11.12633501348381,10.785913823707993,NA
+358,575,1048,White,Female,Less than high school,Less than high school,College,11.12633501348381,11.285943199562439,NA
+358,575,1050,White,Male,Less than high school,Less than high school,Some college,11.12633501348381,11.285943199562439,NA
+359,576,1051,White,Male,Less than high school,Less than high school,High school,11.281173883643984,11.144362479653351,NA
+359,576,1053,White,Male,Less than high school,Less than high school,Some college,11.281173883643984,11.144362479653351,NA
+359,577,1055,White,Female,Less than high school,Some college,Some college,11.281173883643984,11.579987884559927,NA
+359,580,1063,White,Male,Less than high school,High school,High school,11.281173883643984,10.576395536603243,NA
+359,580,1064,White,Male,Less than high school,High school,Less than high school,11.281173883643984,10.576395536603243,NA
+359,581,1065,White,Female,Less than high school,High school,Some college,11.281173883643984,10.785913823707993,NA
+359,581,1067,White,Female,Less than high school,High school,High school,11.281173883643984,10.785913823707993,NA
+359,582,1069,White,Male,Less than high school,Less than high school,High school,11.281173883643984,11.285943199562439,NA
+361,584,1074,White,Male,College,Some college,Some college,12.224951203004709,10.989795054592575,NA
+361,584,1075,White,Male,College,Some college,High school,12.224951203004709,10.989795054592575,NA
+363,586,1078,White,Male,High school,High school,High school,11.905974576576323,11.102019977113912,NA
+364,588,1080,White,Male,Less than high school,High school,High school,11.966736068284838,11.102019977113912,NA
+364,589,1081,White,Female,Less than high school,High school,Some college,11.966736068284838,11.765357341859968,NA
+365,590,1082,White,Female,College,College,Some college,12.012507122988563,11.788335651840674,NA
+365,591,1084,White,Male,College,Some college,High school,12.012507122988563,11.299841502396452,NA
+365,591,1085,White,Male,College,Some college,Some college,12.012507122988563,11.299841502396452,NA
+366,592,1086,White,Female,College,College,Some college,11.86446168701192,11.788335651840674,NA
+366,592,1087,White,Male,College,College,Some college,11.86446168701192,11.788335651840674,NA
+366,593,1089,White,Male,College,Some college,Some college,11.86446168701192,11.299841502396452,NA
+367,594,1090,White,Male,Some college,Some college,College,12.167360757428229,12.321262823945554,NA
+367,595,1092,White,Male,Some college,Some college,College,12.167360757428229,11.25295399568603,NA
+368,597,1095,White,Male,Less than high school,Some college,College,12.08156019586434,11.25295399568603,NA
+369,598,1096,White,Male,Less than high school,High school,High school,9.865922967591066,10.184857674807832,NA
+370,599,1098,Black,Female,Less than high school,High school,High school,10.652345988154668,11.020133842224874,NA
+370,600,1099,Black,Female,Less than high school,High school,High school,10.652345988154668,10.29746301427093,NA
+371,601,1101,White,Female,High school,High school,College,10.26059749461692,11.375321525604543,NA
+372,603,1104,White,Male,Less than high school,High school,High school,9.602910087631374,11.334318336546614,NA
+372,603,1105,White,Female,Less than high school,High school,Some college,9.602910087631374,11.334318336546614,NA
+373,604,1106,White,Male,College,College,College,11.894251710135208,11.73532833117109,NA
+373,605,1109,White,Male,College,College,College,11.894251710135208,11.633467360254274,NA
+373,605,1110,White,Male,College,College,College,11.894251710135208,11.633467360254274,NA
+374,607,1112,White,Male,Some college,College,College,11.957876959605944,11.73532833117109,NA
+374,607,1113,White,Male,Some college,College,College,11.957876959605944,11.73532833117109,NA
+374,608,1116,White,Male,Some college,College,College,11.957876959605944,11.633467360254274,NA
+375,610,1118,White,Male,High school,Less than high school,Some college,11.743312704744723,10.623900115542819,NA
+376,611,1119,White,Male,High school,Less than high school,Some college,11.700228881680143,10.623900115542819,NA
+377,613,1121,White,Female,High school,High school,High school,12.212991366989092,11.13534673463424,NA
+377,614,1123,White,Male,High school,High school,High school,12.212991366989092,11.302398499015458,NA
+377,614,1124,White,Male,High school,High school,High school,12.212991366989092,11.302398499015458,NA
+377,615,1125,White,Male,High school,Less than high school,Some college,12.212991366989092,11.143831767915598,NA
+377,615,1126,White,Male,High school,Less than high school,High school,12.212991366989092,11.143831767915598,NA
+378,618,1130,White,Male,High school,High school,High school,12.334194117043117,11.302398499015458,NA
+378,619,1133,White,Male,High school,Less than high school,High school,12.334194117043117,11.143831767915598,NA
+381,622,1137,White,Female,Less than high school,High school,High school,11.439105043129024,11.212049864311409,NA
+382,623,1138,White,Male,Less than high school,High school,Some college,11.47412942355979,11.212049864311409,NA
+383,624,1140,Black,Female,High school,College,Some college,11.059909902953835,11.001868364000826,NA
+383,625,1142,Black,Female,High school,Some college,College,11.059909902953835,11.614595606874653,NA
+383,625,1143,Black,Male,High school,Some college,Some college,11.059909902953835,11.614595606874653,NA
+383,626,1144,Black,Male,High school,High school,Less than high school,11.059909902953835,11.08056689021821,NA
+383,626,1145,Black,Male,High school,High school,High school,11.059909902953835,11.08056689021821,NA
+384,629,1151,Black,Male,Less than high school,Some college,Some college,11.025005848121607,11.614595606874653,NA
+384,630,1152,Black,Male,Less than high school,High school,Less than high school,11.025005848121607,11.08056689021821,NA
+384,630,1154,Black,Male,Less than high school,High school,Some college,11.025005848121607,11.08056689021821,NA
+384,631,1155,Black,Male,Less than high school,Some college,Some college,11.025005848121607,11.050530361130585,NA
+385,632,1156,Black,Female,Less than high school,Some college,High school,11.001074960249166,10.48658942247656,NA
+387,634,1158,White,Female,Less than high school,High school,Some college,11.114124440837383,11.274293605895883,NA
+389,636,1163,White,Female,High school,College,College,11.66472511583706,11.860215965129775,NA
+390,638,1166,Black,Male,Less than high school,Some college,High school,10.698627870020879,10.920464254198231,NA
+391,640,1170,White,Female,High school,College,Some college,11.76540481335446,11.755805969206694,NA
+392,641,1171,White,Male,Less than high school,High school,College,11.326571548704054,11.312189526380232,NA
+393,642,1172,White,Male,Less than high school,High school,College,11.38275389193615,11.312189526380232,NA
+394,643,1174,Black,Female,Some college,Some college,High school,11.628939292061903,10.75986923579876,NA
+394,644,1175,Black,Male,Some college,College,College,11.628939292061903,11.84291948139277,NA
+394,644,1178,Black,Female,Some college,College,Some college,11.628939292061903,11.84291948139277,NA
+395,645,1180,Black,Female,High school,Some college,High school,11.338688146461335,10.75986923579876,NA
+395,646,1183,Black,Female,High school,College,College,11.338688146461335,11.84291948139277,NA
+397,648,1188,White,Female,High school,College,College,11.502477291025544,11.468801423162336,NA
+397,648,1190,White,Male,High school,College,College,11.502477291025544,11.468801423162336,NA
+398,649,1192,White,Female,High school,High school,Some college,11.388601849753694,11.441926016142324,NA
+399,650,1193,White,Female,Less than high school,High school,Some college,11.494229209010756,11.441926016142324,NA
+400,651,1196,White,Female,High school,Some college,Some college,11.660261325184374,11.756726473260393,NA
+403,654,1199,White,Female,Less than high school,High school,College,11.155989866440807,11.468145919997982,NA
+404,656,1202,White,Male,High school,High school,Some college,11.11330974261568,11.76481529129746,NA
+407,659,1205,White,Male,High school,College,College,11.380185579722536,12.332837827204562,NA
+409,661,1207,White,Male,High school,College,Some college,11.809815314829997,11.509715236478772,NA
+410,662,1208,White,Male,Less than high school,College,College,11.363786257686439,12.153008662451803,NA
+412,664,1210,White,Female,Less than high school,High school,Some college,12.053508647909398,11.270288062925118,NA
+412,664,1211,White,Male,Less than high school,High school,College,12.053508647909398,11.270288062925118,NA
+412,664,1212,White,Female,Less than high school,High school,Less than high school,12.053508647909398,11.270288062925118,NA
+413,665,1214,White,Female,Some college,High school,Some college,12.053508647909398,11.270288062925118,NA
+414,666,1218,White,Male,College,College,College,11.644938093206825,12.12718467412932,NA
+415,669,1224,White,Male,Some college,College,College,11.64759948086029,12.12718467412932,NA
+415,670,1226,White,Male,Some college,Some college,College,11.64759948086029,12.053815959544131,NA
+415,670,1227,White,Male,Some college,Some college,High school,11.64759948086029,12.053815959544131,NA
+416,672,1230,White,Female,High school,Some college,College,11.624096562463995,11.9633286320464,NA
+417,673,1231,White,Female,Less than high school,Some college,College,11.59872069604674,11.9633286320464,NA
+418,674,1233,White,Female,Less than high school,Less than high school,College,10.34176118379124,10.797983548394356,NA
+419,675,1234,White,Male,Less than high school,Less than high school,High school,10.329771617467333,10.797983548394356,NA
+419,675,1235,White,Female,Less than high school,Less than high school,College,10.329771617467333,10.797983548394356,NA
+420,676,1238,White,Female,High school,High school,College,11.786089900743702,11.086832144605056,NA
+421,677,1240,White,Female,High school,High school,College,11.226563374422053,11.086832144605056,NA
+422,678,1242,Black,Female,Less than high school,High school,High school,11.103871227760544,11.187267865528414,NA
+422,679,1243,Black,Male,Less than high school,High school,High school,11.103871227760544,10.644507664919855,NA
+423,680,1244,Black,Female,Less than high school,High school,High school,11.041801768922811,11.187267865528414,NA
+424,682,1246,Black,Female,High school,High school,High school,11.713237602022964,11.995947819876214,NA
+424,682,1248,Black,Female,High school,High school,High school,11.713237602022964,11.995947819876214,NA
+424,683,1250,Black,Male,High school,High school,High school,11.713237602022964,11.089324619403007,NA
+424,684,1251,Black,Female,High school,High school,High school,11.713237602022964,11.442745733384331,NA
+424,684,1252,Black,Male,High school,High school,High school,11.713237602022964,11.442745733384331,NA
+425,685,1254,Black,Female,Less than high school,High school,High school,11.73988152101452,11.995947819876214,NA
+425,686,1257,Black,Male,Less than high school,High school,High school,11.73988152101452,11.089324619403007,NA
+425,687,1259,Black,Female,Less than high school,High school,High school,11.73988152101452,11.442745733384331,NA
+426,688,1262,Black,Female,Less than high school,Less than high school,Less than high school,11.538076209846437,10.385243955990864,NA
+426,688,1263,Black,Female,Less than high school,Less than high school,Some college,11.538076209846437,10.385243955990864,NA
+426,688,1264,Black,Male,Less than high school,Less than high school,Some college,11.538076209846437,10.385243955990864,NA
+426,689,1268,Black,Female,Less than high school,Less than high school,High school,11.538076209846437,11.689228325081993,NA
+429,695,1276,White,Female,College,College,College,11.659643248936522,12.313841663545567,NA
+431,697,1278,White,Male,Less than high school,High school,High school,11.340065573328333,11.574139809804437,NA
+432,699,1280,White,Male,High school,High school,High school,11.370737936560753,11.574139809804437,NA
+433,703,1286,White,Female,High school,High school,College,11.776789177119536,11.936002759772125,NA
+433,703,1287,White,Female,High school,High school,College,11.776789177119536,11.936002759772125,NA
+434,707,1293,White,Female,High school,High school,College,11.744163617324311,11.936002759772125,NA
+435,709,1296,White,Male,Less than high school,College,College,11.597479009544296,12.52678498360231,NA
+436,711,1299,White,Male,College,College,College,12.667405311177895,11.905414927553732,NA
+437,713,1302,White,Male,College,College,College,12.773125079432885,11.905414927553732,NA
+438,714,1304,White,Male,High school,College,High school,11.363101826990246,12.327501234411853,NA
+439,715,1305,White,Female,High school,College,College,11.363101826990246,12.327501234411853,NA
+440,716,1307,White,Female,High school,College,College,12.040393112640949,11.61485763292598,NA
+441,717,1308,White,Male,High school,High school,High school,11.684140911147223,11.244927476788066,NA
+443,719,1310,White,Male,College,College,College,12.425758917200872,12.113543790037893,NA
+443,719,1312,White,Female,College,College,College,12.425758917200872,12.113543790037893,NA
+443,720,1313,White,Female,College,College,College,12.425758917200872,12.089383728985053,NA
+443,721,1315,White,Male,College,Some college,Some college,12.425758917200872,11.802837411330579,NA
+444,722,1316,Black,Female,Less than high school,High school,Less than high school,10.806903596987537,10.228103032097657,NA
+445,724,1319,Black,Female,Less than high school,High school,Less than high school,10.758399861162067,10.228103032097657,NA
+446,726,1322,White,Female,High school,Less than high school,High school,11.369917538381626,11.008828391878046,NA
+446,726,1323,White,Male,High school,Less than high school,High school,11.369917538381626,11.008828391878046,NA
+446,727,1324,White,Female,High school,Some college,Some college,11.369917538381626,11.556145708888973,NA
+446,728,1328,White,Male,High school,High school,College,11.369917538381626,11.403116043341043,NA
+447,729,1329,White,Female,High school,Less than high school,High school,11.465278955816572,11.008828391878046,NA
+447,729,1330,White,Male,High school,Less than high school,High school,11.465278955816572,11.008828391878046,NA
+447,730,1331,White,Female,High school,Some college,Some college,11.465278955816572,11.556145708888973,NA
+447,730,1332,White,Female,High school,Some college,College,11.465278955816572,11.556145708888973,NA
+447,731,1334,White,Female,High school,High school,Some college,11.465278955816572,11.403116043341043,NA
+448,732,1337,White,Female,Less than high school,Some college,College,10.800737648482505,11.203434417663678,NA
+449,733,1339,White,Female,Less than high school,Some college,College,10.830324880126284,11.203434417663678,NA
+450,734,1340,White,Male,Less than high school,High school,College,11.350695405690145,11.631503243153631,NA
+450,734,1341,White,Female,Less than high school,High school,Some college,11.350695405690145,11.631503243153631,NA
+451,735,1342,White,Male,Less than high school,High school,College,11.131855705357413,11.836949014827454,NA
+452,736,1343,White,Male,Less than high school,High school,College,11.261734727973925,11.836949014827454,NA
+454,739,1346,White,Female,Less than high school,Less than high school,High school,10.728303414778548,11.602197100819945,NA
+454,740,1347,White,Female,Less than high school,Less than high school,Less than high school,10.728303414778548,11.232738761050014,NA
+455,741,1348,White,Female,Less than high school,Less than high school,Less than high school,11.189484499548724,11.00901429297038,NA
+455,741,1349,White,Male,Less than high school,Less than high school,College,11.189484499548724,11.00901429297038,NA
+455,741,1351,White,Male,Less than high school,Less than high school,High school,11.189484499548724,11.00901429297038,NA
+455,742,1354,White,Male,Less than high school,High school,Some college,11.189484499548724,11.336089131940195,NA
+455,744,1357,White,Female,Less than high school,High school,Some college,11.189484499548724,11.052541872117628,NA
+455,746,1361,White,Male,Less than high school,Less than high school,Less than high school,11.189484499548724,11.032126937131892,NA
+455,747,1363,White,Female,Less than high school,High school,Some college,11.189484499548724,11.399680159868772,NA
+455,747,1364,White,Female,Less than high school,High school,College,11.189484499548724,11.399680159868772,NA
+456,748,1365,White,Female,Less than high school,Less than high school,Less than high school,11.153216892505215,11.00901429297038,NA
+456,748,1368,White,Male,Less than high school,Less than high school,High school,11.153216892505215,11.00901429297038,NA
+456,750,1373,White,Female,Less than high school,High school,Some college,11.153216892505215,11.437463383503838,NA
+456,753,1377,White,Female,Less than high school,Less than high school,High school,11.153216892505215,11.032126937131892,NA
+456,754,1379,White,Female,Less than high school,High school,College,11.153216892505215,11.399680159868772,NA
+456,754,1381,White,Female,Less than high school,High school,College,11.153216892505215,11.399680159868772,NA
+457,756,1386,White,Male,Less than high school,Less than high school,Less than high school,11.228783322518922,11.34203342510449,NA
+457,757,1387,White,Female,Less than high school,Less than high school,Less than high school,11.228783322518922,10.810810237270722,NA
+457,758,1389,White,Female,Less than high school,High school,Some college,11.228783322518922,11.149413002620582,NA
+457,758,1390,White,Female,Less than high school,High school,Some college,11.228783322518922,11.149413002620582,NA
+457,758,1391,White,Male,Less than high school,High school,High school,11.228783322518922,11.149413002620582,NA
+458,760,1396,Other,Male,Less than high school,Less than high school,Less than high school,11.263646232656951,11.34203342510449,NA
+458,761,1398,Other,Female,Less than high school,Less than high school,Less than high school,11.263646232656951,10.810810237270722,NA
+459,763,1402,White,Male,Less than high school,Some college,College,12.249154257292279,11.084581807119696,NA
+460,764,1403,White,Male,Less than high school,Some college,College,12.199503503475993,11.084581807119696,NA
+461,765,1406,White,Female,Less than high school,High school,Some college,11.145852669448395,11.399977424430668,NA
+461,765,1407,White,Male,Less than high school,High school,High school,11.145852669448395,11.399977424430668,NA
+462,770,1419,White,Male,Less than high school,High school,High school,11.171228078921427,11.249527641553177,NA
+462,770,1421,White,Female,Less than high school,High school,Some college,11.171228078921427,11.249527641553177,NA
+463,771,1422,White,Male,Less than high school,High school,High school,11.481466736845974,12.092032102962587,NA
+463,771,1423,White,Female,Less than high school,High school,Some college,11.481466736845974,12.092032102962587,NA
+464,772,1425,White,Female,Less than high school,High school,Some college,11.369279530041185,12.092032102962587,NA
+465,773,1426,White,Male,Less than high school,Some college,High school,11.644213172617762,11.868334613012815,NA
+466,774,1429,White,Female,High school,Some college,College,11.663757924374998,11.868334613012815,NA
+468,777,1432,White,Female,Less than high school,High school,Some college,11.97848925124772,12.233482833135863,NA
+468,778,1433,White,Male,Less than high school,Some college,Some college,11.97848925124772,11.740282585825307,NA
+469,779,1434,White,Male,High school,Some college,Some college,11.408765060739832,11.327154160770188,NA
+469,779,1435,White,Female,High school,Some college,Some college,11.408765060739832,11.327154160770188,NA
+470,780,1437,White,Female,Less than high school,Some college,Some college,11.50176775132029,11.327154160770188,NA
+472,782,1439,Black,Male,Less than high school,Less than high school,High school,10.919588512715965,11.22161120018388,NA
+472,782,1441,Black,Female,Less than high school,Less than high school,High school,10.919588512715965,11.22161120018388,NA
+472,783,1443,Black,Female,Less than high school,High school,High school,10.919588512715965,11.01025896459241,NA
+473,784,1446,Black,Male,Less than high school,Less than high school,High school,10.92152799745345,11.22161120018388,NA
+473,784,1448,Black,Female,Less than high school,Less than high school,High school,10.92152799745345,11.22161120018388,NA
+473,785,1450,Black,Female,Less than high school,High school,High school,10.92152799745345,11.01025896459241,NA
+473,785,1451,Black,Male,Less than high school,High school,Some college,10.92152799745345,11.01025896459241,NA
+473,785,1452,Black,Male,Less than high school,High school,High school,10.92152799745345,11.01025896459241,NA
+473,786,1453,Black,Male,Less than high school,College,High school,10.92152799745345,11.83643894121461,NA
+473,786,1454,Black,Female,Less than high school,College,Some college,10.92152799745345,11.83643894121461,NA
+474,788,1457,White,Male,Less than high school,High school,College,11.231494542702691,11.468797163051189,NA
+475,789,1461,White,Female,Less than high school,High school,Some college,11.459720378772364,11.468797163051189,NA
+477,791,1464,White,Male,Less than high school,High school,High school,11.62247838086809,11.139737556225242,NA
+477,791,1465,White,Female,Less than high school,High school,Some college,11.62247838086809,11.139737556225242,NA
+478,794,1472,White,Female,Less than high school,High school,College,11.90738284806784,11.77688096097887,NA
+478,794,1473,White,Female,Less than high school,High school,High school,11.90738284806784,11.77688096097887,NA
+478,794,1474,White,Female,Less than high school,High school,Some college,11.90738284806784,11.77688096097887,NA
+480,796,1476,Other,Female,Some college,High school,College,11.686913359768097,11.625863945079589,NA
+481,797,1478,White,Male,High school,Some college,High school,11.111736781028615,11.178546143955371,NA
+481,797,1479,White,Female,High school,Some college,College,11.111736781028615,11.178546143955371,NA
+483,799,1483,White,Male,Less than high school,Some college,College,11.331295054315412,11.30840100470446,NA
+485,801,1486,White,Female,Less than high school,Some college,Some college,11.535282427506656,11.413344310965616,NA
+485,801,1487,White,Male,Less than high school,Some college,High school,11.535282427506656,11.413344310965616,NA
+487,804,1492,White,Female,Less than high school,Less than high school,Less than high school,11.378577059925052,10.35355446591657,NA
+487,804,1493,White,Female,Less than high school,Less than high school,Some college,11.378577059925052,10.35355446591657,NA
+487,805,1496,White,Male,Less than high school,Less than high school,Less than high school,11.378577059925052,8.911775100683265,NA
+487,807,1500,White,Male,Less than high school,High school,High school,11.378577059925052,11.01836222106571,NA
+488,808,1501,White,Female,Less than high school,High school,Some college,11.6428965421257,11.542772517882263,NA
+488,808,1502,White,Female,Less than high school,High school,College,11.6428965421257,11.542772517882263,NA
+489,811,1505,White,Male,High school,College,High school,11.588096793556241,11.46297155912351,NA
+489,812,1506,White,Male,High school,Some college,College,11.588096793556241,11.726124937595282,NA
+491,815,1512,White,Male,Less than high school,Some college,Some college,11.930830663931623,12.07655323796893,NA
+491,815,1513,White,Female,Less than high school,Some college,Some college,11.930830663931623,12.07655323796893,NA
+491,816,1514,White,Female,Less than high school,College,College,11.930830663931623,11.719672137316994,NA
+492,817,1516,White,Male,Less than high school,Some college,Some college,11.89043928113729,12.07655323796893,NA
+492,817,1517,White,Female,Less than high school,Some college,Some college,11.89043928113729,12.07655323796893,NA
+492,818,1518,White,Female,Less than high school,College,College,11.89043928113729,11.719672137316994,NA
+494,820,1520,White,Male,High school,High school,College,11.3608949842759,11.840225417328979,NA
+495,821,1521,White,Male,College,College,College,11.99282742945764,12.92102940223144,NA
+495,821,1523,White,Male,College,College,College,11.99282742945764,12.92102940223144,NA
+496,822,1525,White,Male,College,College,College,12.053866358212296,12.92102940223144,NA
+496,822,1526,White,Male,College,College,College,12.053866358212296,12.92102940223144,NA
+497,823,1528,White,Female,High school,Less than high school,Some college,10.730789270594615,11.194818163932075,NA
+497,824,1529,White,Male,High school,High school,Some college,10.730789270594615,10.512573955410597,NA
+497,825,1533,White,Female,High school,Less than high school,High school,10.730789270594615,11.189624666228603,NA
+498,826,1534,White,Male,High school,Less than high school,High school,10.730186419723871,11.194818163932075,NA
+498,826,1535,White,Female,High school,Less than high school,Some college,10.730186419723871,11.194818163932075,NA
+498,827,1536,White,Male,High school,High school,Some college,10.730186419723871,10.512573955410597,NA
+498,827,1537,White,Male,High school,High school,High school,10.730186419723871,10.512573955410597,NA
+498,827,1538,White,Male,High school,High school,High school,10.730186419723871,10.512573955410597,NA
+498,827,1539,White,Female,High school,High school,College,10.730186419723871,10.512573955410597,NA
+498,828,1540,White,Female,High school,Less than high school,High school,10.730186419723871,11.189624666228603,NA
+499,829,1541,White,Female,Less than high school,High school,Some college,10.466127720260229,12.224942022229914,NA
+499,829,1543,White,Male,Less than high school,High school,High school,10.466127720260229,12.224942022229914,NA
+499,830,1545,White,Male,Less than high school,High school,High school,10.466127720260229,11.399033859603096,NA
+500,832,1550,White,Male,Less than high school,High school,Some college,10.466127720260229,11.399033859603096,NA
+500,832,1551,White,Male,Less than high school,High school,High school,10.466127720260229,11.399033859603096,NA
+501,833,1553,White,Male,High school,College,College,11.264420778254193,11.603672309371778,NA
+503,839,1561,White,Female,Less than high school,Less than high school,College,10.707996737423125,11.082320147316068,NA
+504,841,1565,White,Female,Less than high school,High school,High school,10.750846917206905,11.149286223195464,NA
+504,842,1566,White,Female,Less than high school,Less than high school,Some college,10.750846917206905,11.633882093671414,NA
+505,845,1569,Black,Female,Less than high school,High school,High school,10.691394437514813,10.554302601731951,NA
+506,846,1570,Black,Male,Less than high school,Less than high school,High school,10.855723296285824,9.371704981154693,NA
+506,847,1571,Black,Female,Less than high school,High school,High school,10.855723296285824,10.554302601731951,NA
+507,848,1573,White,Female,Less than high school,High school,College,11.419539450248937,10.990647337875304,NA
+508,849,1576,White,Female,Less than high school,High school,High school,11.34189196855327,10.990647337875304,NA
+510,851,1583,Black,Male,Less than high school,High school,High school,11.205013364707739,10.605524539445137,NA
+511,852,1586,White,Male,Less than high school,Some college,Some college,11.851149314476357,10.301873493884056,NA
+511,853,1587,White,Male,Less than high school,High school,College,11.851149314476357,11.741856114245989,NA
+511,853,1589,White,Female,Less than high school,High school,College,11.851149314476357,11.741856114245989,NA
+512,854,1591,White,Female,High school,Some college,College,11.780908849816877,11.208468619080563,NA
+512,854,1592,White,Female,High school,Some college,College,11.780908849816877,11.208468619080563,NA
+512,855,1595,White,Male,High school,Some college,Some college,11.780908849816877,11.735131410117782,NA
+512,855,1596,White,Male,High school,Some college,High school,11.780908849816877,11.735131410117782,NA
+513,856,1599,White,Female,High school,Some college,College,11.780908849816877,11.208468619080563,NA
+513,857,1601,White,Female,High school,Some college,College,11.780908849816877,11.735131410117782,NA
+513,857,1602,White,Male,High school,Some college,Some college,11.780908849816877,11.735131410117782,NA
+513,857,1603,White,Male,High school,Some college,High school,11.780908849816877,11.735131410117782,NA
+514,858,1607,White,Female,Less than high school,Less than high school,College,10.244333471303138,10.918471767242638,NA
+514,858,1608,White,Female,Less than high school,Less than high school,College,10.244333471303138,10.918471767242638,NA
+516,861,1611,White,Female,Less than high school,High school,Some college,11.08262615981781,11.37149017987272,NA
+517,862,1612,White,Female,Some college,Some college,College,12.432012418394617,12.149059769558852,NA
+518,863,1613,White,Female,High school,Some college,College,12.362946835344523,12.149059769558852,NA
+519,864,1615,Black,Male,Less than high school,Less than high school,High school,10.98313674164553,11.420981914590515,NA
+519,864,1616,Black,Female,Less than high school,Less than high school,High school,10.98313674164553,11.420981914590515,NA
+522,868,1622,White,Female,College,College,High school,11.741324511512397,12.237552443784034,NA
+523,871,1626,White,Female,College,College,High school,11.671889435060798,12.237552443784034,NA
+523,871,1627,White,Male,College,College,College,11.671889435060798,12.237552443784034,NA
+523,872,1628,White,Male,College,Some college,College,11.671889435060798,12.099188845117794,NA
+523,873,1629,White,Female,College,High school,Some college,11.671889435060798,11.149997353863336,NA
+524,874,1632,White,Male,Less than high school,Some college,College,11.641378583634198,11.542444707374724,NA
+528,881,1643,White,Male,High school,High school,College,11.587626382784912,11.276431724131426,NA
+528,881,1644,White,Female,High school,High school,College,11.587626382784912,11.276431724131426,NA
+529,882,1645,White,Male,Less than high school,High school,College,11.640693305578218,11.723951427951315,NA
+529,882,1646,White,Male,Less than high school,High school,Some college,11.640693305578218,11.723951427951315,NA
+530,884,1650,Other,Female,Less than high school,High school,Some college,10.857833805851538,11.657691526357699,NA
+531,885,1653,White,Female,College,College,College,12.099533171725483,12.060803053009321,NA
+531,886,1654,White,Male,College,College,College,12.099533171725483,11.524853913228997,NA
+532,888,1656,White,Male,High school,College,College,11.75985668409451,11.751710811618157,NA
+533,889,1657,White,Male,Less than high school,High school,Some college,11.068911222284413,11.281340043173095,NA
+533,889,1658,White,Female,Less than high school,High school,Some college,11.068911222284413,11.281340043173095,NA
+534,890,1660,White,Female,Less than high school,High school,Some college,11.042575822651845,11.281340043173095,NA
+535,891,1662,White,Female,Some college,High school,Some college,11.548339723271523,11.663981337354654,NA
+535,892,1663,White,Male,Some college,High school,Some college,11.548339723271523,11.46593960602731,NA
+535,893,1664,White,Male,Some college,High school,High school,11.548339723271523,11.192285358411658,NA
+536,896,1670,White,Male,High school,High school,High school,11.676751292126422,11.192285358411658,NA
+536,896,1671,White,Female,High school,High school,High school,11.676751292126422,11.192285358411658,NA
+537,897,1673,White,Female,Less than high school,Less than high school,High school,11.298989691064007,11.215007413480029,NA
+537,897,1674,White,Female,Less than high school,Less than high school,Some college,11.298989691064007,11.215007413480029,NA
+537,898,1677,White,Male,Less than high school,High school,High school,11.298989691064007,10.79912734366601,NA
+538,899,1678,White,Female,Less than high school,Less than high school,High school,11.566007281515555,11.215007413480029,NA
+538,900,1680,White,Male,Less than high school,High school,High school,11.566007281515555,10.79912734366601,NA
+538,900,1681,White,Female,Less than high school,High school,Some college,11.566007281515555,10.79912734366601,NA
+538,900,1682,White,Male,Less than high school,High school,High school,11.566007281515555,10.79912734366601,NA
+539,901,1683,White,Male,Less than high school,High school,Less than high school,11.367935788867017,10.935595198373912,NA
+540,904,1687,White,Male,Some college,High school,Less than high school,11.43212824145891,10.935595198373912,NA
+540,905,1688,White,Female,Some college,High school,Some college,11.43212824145891,11.124271625505871,NA
+542,908,1692,White,Male,Less than high school,High school,College,11.51589608796529,11.744630097912173,NA
+544,910,1694,White,Male,High school,High school,College,11.613362971505406,11.982292476721167,NA
+547,913,1697,White,Female,High school,Some college,College,10.804328138317873,11.869027225442286,NA
+547,913,1698,White,Female,High school,Some college,Some college,10.804328138317873,11.869027225442286,NA
+548,914,1700,White,Female,Less than high school,Some college,Some college,11.207693418969157,11.869027225442286,NA
+549,915,1701,White,Female,Less than high school,Some college,Some college,11.76962199145275,11.384619195853466,NA
+549,915,1702,White,Male,Less than high school,Some college,High school,11.76962199145275,11.384619195853466,NA
+549,915,1703,White,Male,Less than high school,Some college,High school,11.76962199145275,11.384619195853466,NA
+550,916,1704,Other,Female,Less than high school,Some college,Some college,11.793350033763872,11.384619195853466,NA
+550,916,1705,Other,Male,Less than high school,Some college,High school,11.793350033763872,11.384619195853466,NA
+552,918,1709,White,Female,Less than high school,High school,College,11.368249415570098,11.763763749885642,NA
+552,918,1710,White,Female,Less than high school,High school,Some college,11.368249415570098,11.763763749885642,NA
+555,923,1716,White,Female,Less than high school,Some college,College,11.55225932948975,11.57794804571595,NA
+555,924,1718,White,Female,Less than high school,College,College,11.55225932948975,10.682779949576274,NA
+555,925,1719,White,Male,Less than high school,Some college,College,11.55225932948975,11.369460009481267,NA
+556,927,1721,White,Male,High school,High school,College,11.739874639896398,11.939255024847558,NA
+558,930,1724,White,Male,Some college,High school,College,11.619726203582468,11.219186489524642,NA
+558,930,1726,White,Female,Some college,High school,College,11.619726203582468,11.219186489524642,NA
+558,930,1727,White,Female,Some college,High school,Some college,11.619726203582468,11.219186489524642,NA
+558,931,1728,White,Male,Some college,Some college,Some college,11.619726203582468,11.423686564115721,NA
+559,933,1733,White,Female,College,High school,College,11.834173203232037,11.219186489524642,NA
+559,933,1734,White,Female,College,High school,Some college,11.834173203232037,11.219186489524642,NA
+559,935,1736,White,Male,College,High school,College,11.834173203232037,11.78241557950159,NA
+560,936,1738,White,Male,High school,Some college,College,11.505762891031281,11.506447357145458,NA
+560,936,1739,White,Male,High school,Some college,College,11.505762891031281,11.506447357145458,NA
+562,938,1742,White,Female,Less than high school,College,Some college,11.746590561795353,11.813188799616848,NA
+563,939,1743,White,Female,Less than high school,College,Some college,11.771523061081181,11.813188799616848,NA
+564,940,1744,White,Male,Less than high school,High school,Less than high school,11.59742887066816,11.093480077606246,NA
+564,942,1746,White,Female,Less than high school,Less than high school,High school,11.59742887066816,11.615066812019073,NA
+565,943,1747,White,Male,High school,High school,College,11.818614749840805,11.39400815348562,NA
+566,944,1748,White,Male,Less than high school,High school,College,11.847335309322276,11.39400815348562,NA
+567,945,1749,White,Male,High school,Some college,Some college,11.505326124061837,11.94201759168116,NA
+568,947,1751,Black,Female,Less than high school,Less than high school,Some college,11.093591551605517,10.891391310953585,NA
+569,949,1753,Black,Female,Less than high school,Less than high school,Some college,11.133140487254057,10.891391310953585,NA
+571,951,1757,White,Male,College,College,College,11.784472843995156,11.263019666765938,NA
+573,954,1761,White,Female,Some college,College,College,12.308630369234024,11.433141227894307,NA
+573,955,1763,White,Female,Some college,College,College,12.308630369234024,12.802721962666139,NA
+575,957,1765,White,Female,High school,Some college,High school,11.304680400962997,11.243538787703002,NA
+576,958,1766,White,Female,Less than high school,High school,Less than high school,11.324012790799472,10.248876400793007,NA
+578,960,1768,White,Female,Less than high school,High school,Some college,11.451013752182217,11.975813990101898,NA
+580,964,1772,White,Female,High school,High school,Some college,11.499090066357452,11.359883183475313,NA
+581,965,1774,White,Female,High school,College,College,12.250809454611051,12.316576052844356,NA
+584,968,1778,Black,Male,High school,Some college,High school,11.438165697831272,11.415767114672414,NA
+584,969,1780,Black,Male,High school,High school,Less than high school,11.438165697831272,10.501769324357639,NA
+585,970,1781,Black,Male,Less than high school,Some college,High school,11.404416547359384,11.415767114672414,NA
+585,970,1782,Black,Female,Less than high school,Some college,Some college,11.404416547359384,11.415767114672414,NA
+585,971,1783,Black,Male,Less than high school,High school,Less than high school,11.404416547359384,10.501769324357639,NA
+586,972,1784,White,Male,High school,High school,High school,11.28117556689952,12.095977929630665,NA
+586,973,1786,White,Female,High school,High school,High school,11.28117556689952,11.58652154441331,NA
+587,975,1789,White,Female,High school,High school,High school,11.28117556689952,12.095977929630665,NA
+588,978,1793,White,Male,High school,Less than high school,High school,11.454367468208632,11.89929539489716,NA
+592,982,1799,White,Female,High school,Some college,High school,11.77825686424231,11.389431215994955,NA
+593,984,1801,White,Female,High school,Some college,College,11.531258167699427,11.389431215994955,NA
+593,985,1803,White,Male,High school,High school,High school,11.531258167699427,11.217090056244999,NA
+594,986,1804,White,Male,Less than high school,High school,High school,11.291684333824772,11.18577892618456,NA
+596,988,1808,White,Female,Some college,High school,Some college,11.584500722362245,11.194232883184988,NA
+597,989,1809,White,Female,Less than high school,High school,High school,10.661421278209248,10.780511309066458,NA
+597,989,1810,White,Female,Less than high school,High school,College,10.661421278209248,10.780511309066458,NA
+597,989,1811,White,Female,Less than high school,High school,College,10.661421278209248,10.780511309066458,NA
+597,990,1814,White,Male,Less than high school,High school,High school,10.661421278209248,11.695451783106698,NA
+597,991,1815,White,Male,Less than high school,Less than high school,High school,10.661421278209248,10.65705265206282,NA
+598,992,1816,White,Female,Less than high school,High school,High school,10.673959313427268,10.780511309066458,NA
+598,992,1818,White,Female,Less than high school,High school,College,10.673959313427268,10.780511309066458,NA
+598,993,1820,White,Female,Less than high school,High school,Some college,10.673959313427268,11.695451783106698,NA
+599,995,1823,White,Male,Less than high school,High school,College,11.51975751626374,11.88776490469708,NA
+599,995,1824,White,Female,Less than high school,High school,High school,11.51975751626374,11.88776490469708,NA
+600,996,1825,White,Male,High school,High school,College,11.790334930162452,11.88776490469708,NA
+600,996,1826,White,Female,High school,High school,High school,11.790334930162452,11.88776490469708,NA
+601,997,1827,White,Female,College,High school,Some college,11.786610796543512,11.768011946219696,NA
+602,998,1828,White,Female,High school,High school,Some college,11.930047897178714,11.768011946219696,NA
+603,999,1829,White,Female,Some college,Some college,College,11.8456919830803,11.603365733983617,NA
+604,1000,1830,White,Female,High school,Some college,College,11.739351161812401,11.603365733983617,NA
+605,1001,1831,White,Male,Less than high school,Some college,Some college,11.412361810475884,11.422127843826917,NA
+605,1002,1833,White,Female,Less than high school,High school,College,11.412361810475884,11.503412490825234,NA
+606,1003,1835,White,Male,High school,Some college,High school,11.412361810475884,11.422127843826917,NA
+609,1007,1839,Black,Female,Less than high school,Some college,Some college,10.60496703343116,11.412307971206497,NA
+609,1007,1840,Black,Female,Less than high school,Some college,College,10.60496703343116,11.412307971206497,NA
+611,1010,1843,White,Male,High school,College,College,11.149252662633723,11.628896714411741,NA
+612,1011,1845,Black,Female,Less than high school,High school,College,10.783915889821062,11.43980760504076,NA
+613,1012,1846,White,Female,High school,Some college,High school,11.652365020061982,11.870562455381512,NA
+613,1012,1847,White,Male,High school,Some college,High school,11.652365020061982,11.870562455381512,NA
+613,1013,1848,White,Female,High school,High school,High school,11.652365020061982,11.042534640870228,NA
+614,1015,1852,White,Female,High school,Some college,High school,11.693402540703351,11.870562455381512,NA
+614,1017,1856,White,Female,High school,High school,College,11.693402540703351,11.556411969029432,NA
+615,1018,1859,White,Female,High school,High school,College,11.56883196416402,11.684603048579888,NA
+616,1023,1867,White,Female,Less than high school,High school,High school,11.337567124937832,11.544440618431041,NA
+617,1024,1868,Black,Female,Less than high school,Some college,Some college,11.227468877462712,9.543375586087928,NA
+618,1027,1872,Black,Male,Less than high school,High school,College,10.674117744342464,10.249257699296322,NA
+618,1027,1873,Black,Male,Less than high school,High school,High school,10.674117744342464,10.249257699296322,NA
+621,1030,1876,White,Male,High school,High school,Some college,10.853537214106785,11.349862042815253,NA
+622,1031,1877,White,Male,High school,High school,Some college,11.992204254198167,11.477154916838701,NA
+624,1034,1880,White,Female,High school,Some college,High school,11.348867296863371,10.92449162897128,NA
+625,1036,1882,White,Female,High school,Some college,High school,11.726457524342118,10.92449162897128,NA
+628,1039,1886,White,Female,Some college,High school,High school,12.07178760982108,10.954021124233114,NA
+629,1040,1887,White,Male,High school,High school,High school,12.05632651896186,10.954021124233114,NA
+629,1040,1888,White,Female,High school,High school,High school,12.05632651896186,10.954021124233114,NA
+630,1041,1889,White,Male,Some college,College,College,11.47714980526809,12.465648640416337,NA
+631,1042,1891,White,Male,High school,High school,College,11.824434756828918,11.36414315581757,NA
+631,1043,1892,White,Male,High school,High school,High school,11.824434756828918,11.201475162987096,NA
+631,1044,1894,White,Male,High school,High school,Some college,11.824434756828918,11.888485714763583,NA
+631,1044,1895,White,Male,High school,High school,High school,11.824434756828918,11.888485714763583,NA
+632,1048,1901,White,Male,Less than high school,High school,Some college,11.918582135763073,11.888485714763583,NA
+633,1049,1903,White,Female,College,Some college,College,11.730776219358608,11.72018388213481,NA
+633,1050,1904,White,Male,College,High school,College,11.730776219358608,11.238489445180893,NA
+636,1054,1908,White,Female,Less than high school,High school,High school,11.383301878221406,12.074574408030605,NA
+637,1056,1910,White,Male,Less than high school,High school,High school,11.7636573190884,12.180766440180541,NA
+638,1057,1911,White,Female,High school,College,College,11.587528703045171,12.249863913830184,NA
+642,1062,1917,White,Male,Less than high school,High school,Some college,12.01413904058338,11.873723828656049,NA
+643,1063,1919,White,Male,Less than high school,College,College,11.727791479351406,11.767657357337463,NA
+643,1064,1921,White,Female,Less than high school,High school,High school,11.727791479351406,10.499364714431628,NA
+644,1066,1924,White,Female,Less than high school,High school,High school,11.774617561324819,10.499364714431628,NA
+645,1067,1925,White,Male,Less than high school,High school,High school,11.460383964653438,11.491727502903096,NA
+646,1068,1927,White,Male,High school,High school,High school,11.546710222327922,11.491727502903096,NA
+647,1069,1930,White,Female,Less than high school,Some college,Some college,11.149861101625817,11.734285976370423,NA
+647,1069,1931,White,Female,Less than high school,Some college,Some college,11.149861101625817,11.734285976370423,NA
+647,1069,1932,White,Female,Less than high school,Some college,College,11.149861101625817,11.734285976370423,NA
+647,1069,1933,White,Male,Less than high school,Some college,Some college,11.149861101625817,11.734285976370423,NA
+647,1070,1934,White,Female,Less than high school,High school,High school,11.149861101625817,11.550772562172563,NA
+647,1070,1936,White,Male,Less than high school,High school,Less than high school,11.149861101625817,11.550772562172563,NA
+648,1071,1937,White,Female,High school,Some college,College,11.319263944891311,11.734285976370423,NA
+648,1071,1940,White,Female,High school,Some college,College,11.319263944891311,11.734285976370423,NA
+648,1071,1941,White,Male,High school,Some college,Some college,11.319263944891311,11.734285976370423,NA
+648,1072,1942,White,Female,High school,High school,High school,11.319263944891311,11.550772562172563,NA
+649,1073,1945,White,Female,College,High school,College,11.668482375050994,11.368827252658894,NA
+651,1075,1950,White,Male,Less than high school,College,College,11.854025976175333,12.821651447052396,NA
+652,1076,1951,White,Male,High school,Some college,College,11.085373158803206,11.645957399538004,NA
+652,1077,1953,White,Female,High school,High school,College,11.085373158803206,11.540404238623676,NA
+653,1078,1954,White,Female,High school,High school,College,10.69305196138329,11.443638882121965,NA
+654,1079,1956,Black,Male,Less than high school,High school,High school,10.87580948490125,11.071562556661844,NA
+654,1080,1958,Black,Male,Less than high school,Less than high school,High school,10.87580948490125,11.083400057676476,NA
+654,1080,1959,Black,Female,Less than high school,Less than high school,High school,10.87580948490125,11.083400057676476,NA
+654,1081,1961,Black,Female,Less than high school,High school,Some college,10.87580948490125,10.968146772674846,NA
+654,1081,1962,Black,Male,Less than high school,High school,High school,10.87580948490125,10.968146772674846,NA
+654,1083,1964,Black,Female,Less than high school,High school,High school,10.87580948490125,9.5860487018821825,NA
+655,1084,1966,Black,Female,Less than high school,High school,High school,11.102777609944507,11.071562556661844,NA
+655,1084,1967,Black,Male,Less than high school,High school,High school,11.102777609944507,11.071562556661844,NA
+655,1085,1969,Black,Male,Less than high school,Less than high school,High school,11.102777609944507,11.083400057676476,NA
+655,1087,1974,Black,Female,Less than high school,High school,Some college,11.102777609944507,10.483901160308516,NA
+657,1090,1980,White,Male,Less than high school,High school,Some college,10.502226940383597,11.591211047982997,NA
+659,1092,1982,White,Female,College,Some college,College,12.103310980947855,10.272088250217653,NA
+659,1093,1984,White,Male,College,College,College,12.103310980947855,11.684652639639038,NA
+659,1093,1985,White,Female,College,College,College,12.103310980947855,11.684652639639038,NA
+660,1095,1989,White,Female,College,College,College,12.164525641012437,11.684652639639038,NA
+663,1098,1994,White,Female,Less than high school,High school,College,11.042936363255118,11.463324103865434,NA
+664,1099,1995,White,Female,Less than high school,High school,College,11.757143974811177,11.463324103865434,NA
+665,1100,1996,White,Female,Less than high school,High school,High school,12.166218643162459,10.943150332704315,NA
+665,1101,1998,White,Female,Less than high school,High school,High school,12.166218643162459,11.20754554300368,NA
+666,1102,2001,Black,Male,Less than high school,High school,Some college,11.670443620026882,11.12809739167498,NA
+667,1103,2004,Black,Male,High school,High school,Some college,11.726384776536273,11.12809739167498,NA
+668,1104,2006,White,Female,High school,College,College,11.339628319472082,11.8580281888296,NA
+672,1109,2013,White,Male,High school,High school,College,11.751656400656465,11.311459559172654,NA
+672,1110,2014,White,Female,High school,High school,Some college,11.751656400656465,11.317612778731345,NA
+672,1111,2018,White,Male,High school,High school,High school,11.751656400656465,12.101335115799195,NA
+672,1111,2020,White,Female,High school,High school,College,11.751656400656465,12.101335115799195,NA
+673,1112,2021,White,Female,College,College,College,11.693152512371073,11.772415854646939,NA
+673,1113,2022,White,Male,College,High school,College,11.693152512371073,11.914504774328577,NA
+673,1113,2023,White,Female,College,High school,High school,11.693152512371073,11.914504774328577,NA
+673,1114,2024,White,Male,College,Some college,College,11.693152512371073,12.438925183349081,NA
+674,1115,2025,White,Female,College,College,College,11.693152512371073,11.772415854646939,NA
+674,1116,2026,White,Male,College,High school,College,11.693152512371073,11.914504774328577,NA
+674,1117,2028,White,Male,College,Some college,College,11.693152512371073,12.438925183349081,NA
+675,1118,2029,White,Female,College,College,College,11.876920776210097,11.598679839287692,NA
+678,1121,2033,White,Female,High school,Some college,Some college,11.450444450967433,11.284825096831902,NA
+679,1123,2036,White,Female,High school,High school,Some college,11.0991900698723,11.500660580912264,NA
+680,1125,2039,White,Female,Less than high school,High school,Less than high school,11.158430177362026,11.619681342118882,NA
+680,1126,2040,White,Female,Less than high school,High school,Some college,11.158430177362026,11.500660580912264,NA
+681,1129,2044,White,Female,Less than high school,High school,Some college,11.097740124384533,11.25098513193195,NA
+681,1129,2047,White,Male,Less than high school,High school,College,11.097740124384533,11.25098513193195,NA
+682,1131,2050,White,Female,High school,High school,Some college,10.999880275614125,11.25098513193195,NA
+682,1131,2051,White,Female,High school,High school,College,10.999880275614125,11.25098513193195,NA
+682,1131,2052,White,Male,High school,High school,College,10.999880275614125,11.25098513193195,NA
+684,1133,2054,White,Female,Some college,Some college,College,11.957710223461715,12.152325139040375,NA
+685,1134,2055,White,Female,High school,High school,Some college,11.804802773006454,11.194348888186445,NA
+686,1135,2056,White,Female,High school,High school,Some college,12.086939209445255,11.194348888186445,NA
+687,1136,2057,White,Male,Less than high school,High school,High school,11.130723137211223,11.719325286136847,NA
+688,1137,2058,White,Female,High school,High school,High school,11.01185297046406,10.91391654346459,NA
+688,1138,2059,White,Male,High school,High school,High school,11.01185297046406,11.719325286136847,NA
+689,1139,2060,White,Female,High school,High school,Some college,11.229611352904769,10.939066743877033,NA
+689,1140,2061,White,Male,High school,High school,High school,11.229611352904769,11.428509829246225,NA
+689,1140,2062,White,Male,High school,High school,College,11.229611352904769,11.428509829246225,NA
+689,1141,2064,White,Male,High school,High school,Some college,11.229611352904769,11.481185319565682,NA
+690,1143,2067,White,Female,Less than high school,High school,Some college,11.237301005589527,10.939066743877033,NA
+690,1145,2071,White,Male,Less than high school,High school,Some college,11.237301005589527,11.481185319565682,NA
+690,1145,2072,White,Female,Less than high school,High school,High school,11.237301005589527,11.481185319565682,NA
+691,1148,2076,White,Female,High school,College,College,11.725097915426613,12.537091601543466,NA
+691,1149,2080,White,Female,High school,College,College,11.725097915426613,11.429208444858292,NA
+695,1154,2087,White,Male,Some college,College,College,11.590001340117075,12.337931217963803,NA
+695,1155,2088,White,Female,Some college,College,Some college,11.590001340117075,11.545813951733093,NA
+695,1155,2089,White,Female,Some college,College,College,11.590001340117075,11.545813951733093,NA
+697,1157,2093,White,Female,Less than high school,High school,High school,11.19908008618226,11.407742373197726,NA
+697,1157,2094,White,Male,Less than high school,High school,High school,11.19908008618226,11.407742373197726,NA
+697,1158,2095,White,Female,Less than high school,Less than high school,Less than high school,11.19908008618226,11.065637718194631,NA
+698,1159,2096,White,Female,Less than high school,High school,High school,11.215909844868287,11.407742373197726,NA
+698,1159,2097,White,Female,Less than high school,High school,High school,11.215909844868287,11.407742373197726,NA
+698,1160,2099,White,Female,Less than high school,Less than high school,Less than high school,11.215909844868287,11.065637718194631,NA
+699,1161,2100,White,Male,Less than high school,High school,College,11.935819279995911,12.033621864992972,NA
+699,1161,2101,White,Female,Less than high school,High school,College,11.935819279995911,12.033621864992972,NA
+699,1161,2102,White,Male,Less than high school,High school,College,11.935819279995911,12.033621864992972,NA
+700,1163,2105,White,Female,High school,High school,College,11.91089568288858,12.033621864992972,NA
+700,1163,2106,White,Male,High school,High school,College,11.91089568288858,12.033621864992972,NA
+700,1164,2107,White,Male,High school,High school,Some college,11.91089568288858,11.416422595023485,NA
+701,1165,2108,White,Female,Less than high school,College,College,11.503389700236866,11.394711566132568,NA
+701,1165,2109,White,Male,Less than high school,College,College,11.503389700236866,11.394711566132568,NA
+701,1166,2111,White,Male,Less than high school,College,Some college,11.503389700236866,12.013168501970464,NA
+701,1167,2112,White,Female,Less than high school,Some college,College,11.503389700236866,11.528863253078875,NA
+702,1168,2114,White,Female,High school,College,College,11.562794650304253,11.394711566132568,NA
+702,1168,2115,White,Male,High school,College,College,11.562794650304253,11.394711566132568,NA
+702,1168,2116,White,Female,High school,College,College,11.562794650304253,11.394711566132568,NA
+702,1169,2117,White,Male,High school,College,Some college,11.562794650304253,12.013168501970464,NA
+702,1170,2119,White,Male,High school,Some college,College,11.562794650304253,11.528863253078875,NA
+703,1172,2121,White,Female,Less than high school,High school,Some college,10.626958857396822,10.843064914239912,NA
+703,1173,2124,White,Male,Less than high school,High school,High school,10.626958857396822,11.012012732964171,NA
+703,1176,2128,White,Female,Less than high school,Less than high school,Some college,10.626958857396822,10.387072489731636,NA
+703,1178,2131,White,Female,Less than high school,Less than high school,High school,10.626958857396822,10.384832769715027,NA
+703,1178,2133,White,Male,Less than high school,Less than high school,High school,10.626958857396822,10.384832769715027,NA
+704,1179,2134,White,Female,Less than high school,College,College,11.339811685584262,11.839465597889125,NA
+704,1179,2135,White,Female,Less than high school,College,College,11.339811685584262,11.839465597889125,NA
+705,1180,2136,White,Female,High school,College,College,11.624578264383443,11.839465597889125,NA
+705,1180,2137,White,Female,High school,College,College,11.624578264383443,11.839465597889125,NA
+706,1181,2139,White,Male,High school,High school,Some college,11.401299772657579,11.94062667375583,NA
+706,1183,2142,White,Female,High school,High school,High school,11.401299772657579,12.011941489281172,NA
+707,1184,2145,White,Female,High school,High school,College,11.470359140800193,11.94062667375583,NA
+707,1186,2147,White,Female,High school,High school,High school,11.470359140800193,12.011941489281172,NA
+708,1187,2148,White,Male,Less than high school,High school,Less than high school,11.027026573915654,10.561157881290386,NA
+708,1187,2149,White,Female,Less than high school,High school,High school,11.027026573915654,10.561157881290386,NA
+709,1188,2150,White,Male,High school,High school,Less than high school,11.018618457336245,10.561157881290386,NA
+709,1188,2151,White,Female,High school,High school,High school,11.018618457336245,10.561157881290386,NA
+711,1190,2155,White,Female,Less than high school,High school,High school,11.195085041166493,11.341889617525997,NA
+712,1192,2158,White,Male,High school,Some college,College,11.356651679824855,11.56265268513428,NA
+714,1194,2160,White,Female,College,College,College,11.671798734000344,11.86977747719834,NA
+716,1196,2162,White,Male,College,College,College,11.809094367972495,11.726694933565632,NA
+716,1196,2163,White,Male,College,College,College,11.809094367972495,11.726694933565632,NA
+716,1197,2164,White,Female,College,College,College,11.809094367972495,12.01781962505558,NA
+716,1197,2166,White,Female,College,College,College,11.809094367972495,12.01781962505558,NA
+717,1198,2167,White,Male,Some college,College,College,11.81872437501657,11.726694933565632,NA
+717,1198,2168,White,Male,Some college,College,College,11.81872437501657,11.726694933565632,NA
+717,1199,2170,White,Female,Some college,College,College,11.81872437501657,12.01781962505558,NA
+717,1199,2171,White,Female,Some college,College,College,11.81872437501657,12.01781962505558,NA
+718,1200,2172,White,Male,High school,High school,High school,11.378168941206516,10.224332965918233,NA
+718,1200,2173,White,Female,High school,High school,High school,11.378168941206516,10.224332965918233,NA
+718,1200,2174,White,Male,High school,High school,High school,11.378168941206516,10.224332965918233,NA
+718,1202,2176,White,Female,High school,Some college,Some college,11.378168941206516,11.57510168062646,NA
+719,1203,2178,White,Female,High school,High school,High school,11.369203406730572,10.224332965918233,NA
+719,1203,2179,White,Male,High school,High school,High school,11.369203406730572,10.224332965918233,NA
+720,1206,2182,White,Female,High school,High school,Some college,11.512263126454135,10.9907775511773,NA
+720,1207,2183,White,Male,High school,High school,High school,11.512263126454135,11.633898054238456,NA
+720,1207,2184,White,Female,High school,High school,High school,11.512263126454135,11.633898054238456,NA
+722,1209,2186,White,Male,High school,High school,Some college,11.873167154111904,11.817933599860933,NA
+724,1211,2188,White,Female,High school,High school,Some college,11.062214253538226,12.102243632495135,NA
+728,1216,2197,White,Male,High school,Some college,Some college,11.05212961313248,11.948083489679728,NA
+728,1216,2198,White,Female,High school,Some college,College,11.05212961313248,11.948083489679728,NA
+729,1218,2201,White,Male,Less than high school,Some college,Some college,11.096722046263613,11.948083489679728,NA
+729,1218,2202,White,Male,Less than high school,Some college,Some college,11.096722046263613,11.948083489679728,NA
+729,1218,2203,White,Female,Less than high school,Some college,College,11.096722046263613,11.948083489679728,NA
+730,1219,2204,White,Female,College,Some college,Some college,11.386114986376981,11.142529834593283,NA
+730,1221,2207,White,Female,College,Some college,College,11.386114986376981,10.969235994548269,NA
+731,1222,2208,White,Female,High school,Some college,Some college,11.540808377804519,11.142529834593283,NA
+731,1222,2209,White,Female,High school,Some college,High school,11.540808377804519,11.142529834593283,NA
+731,1223,2210,White,Male,High school,High school,Some college,11.540808377804519,11.408829039441443,NA
+733,1226,2213,White,Male,High school,High school,Some college,10.627919342451122,11.227788067979581,NA
+734,1227,2214,White,Male,Less than high school,High school,High school,11.218746845811363,11.722574372275533,NA
+736,1229,2216,White,Female,Less than high school,High school,Some college,11.325040973411625,11.572432924826156,NA
+736,1229,2217,White,Female,Less than high school,High school,College,11.325040973411625,11.572432924826156,NA
+736,1230,2218,White,Female,Less than high school,High school,Less than high school,11.325040973411625,11.46205603068641,NA
+736,1231,2221,White,Female,Less than high school,Some college,Some college,11.325040973411625,10.788215433976067,NA
+737,1232,2223,White,Female,High school,High school,College,11.427947140577828,11.572432924826156,NA
+737,1233,2225,White,Female,High school,High school,Less than high school,11.427947140577828,11.46205603068641,NA
+737,1233,2226,White,Male,High school,High school,Some college,11.427947140577828,11.46205603068641,NA
+738,1235,2228,White,Male,Less than high school,Less than high school,High school,10.771665295061295,10.736422908598955,NA
+739,1237,2233,White,Female,High school,Less than high school,High school,10.603116582283509,10.736422908598955,NA
+739,1238,2235,White,Male,High school,High school,High school,10.603116582283509,11.567604869576504,NA
+740,1239,2237,White,Female,Less than high school,High school,College,11.419864118693198,11.174103962884573,NA
+740,1239,2238,White,Male,Less than high school,High school,High school,11.419864118693198,11.174103962884573,NA
+741,1241,2241,White,Female,High school,High school,College,11.419864118693198,11.174103962884573,NA
+741,1241,2242,White,Male,High school,High school,High school,11.419864118693198,11.174103962884573,NA
+742,1243,2244,White,Female,High school,High school,College,11.289348458950835,11.626892385051228,NA
+742,1243,2245,White,Female,High school,High school,College,11.289348458950835,11.626892385051228,NA
+745,1246,2249,White,Female,High school,Some college,College,11.370560153958259,11.545140506773262,NA
+746,1247,2250,White,Male,College,High school,Less than high school,10.976165138694244,11.467583906192596,NA
+747,1248,2251,White,Male,High school,High school,Less than high school,10.58908324911665,11.467583906192596,NA
+748,1249,2252,White,Female,College,High school,Less than high school,11.703860343742718,9.76816071187217,NA
+749,1251,2254,White,Female,High school,High school,Less than high school,12.06733096093699,9.76816071187217,NA
+749,1252,2255,White,Male,High school,Some college,High school,12.06733096093699,11.817314658343149,NA
+750,1253,2257,White,Female,Some college,Some college,College,11.80158378488767,11.95095252777549,NA
+750,1254,2258,White,Male,Some college,Some college,College,11.80158378488767,11.261858246120672,NA
+750,1254,2259,White,Male,Some college,Some college,Less than high school,11.80158378488767,11.261858246120672,NA
+750,1255,2260,White,Female,Some college,High school,Some college,11.80158378488767,12.046982436950994,NA
+751,1256,2263,White,Female,Less than high school,Some college,College,11.79595117996667,11.95095252777549,NA
+751,1257,2264,White,Male,Less than high school,Some college,College,11.79595117996667,11.261858246120672,NA
+751,1257,2265,White,Male,Less than high school,Some college,Less than high school,11.79595117996667,11.261858246120672,NA
+751,1258,2267,White,Male,Less than high school,High school,College,11.79595117996667,12.046982436950994,NA
+752,1259,2268,White,Female,Less than high school,Less than high school,Some college,10.928310844207374,11.812199556069224,NA
+752,1260,2270,White,Female,Less than high school,Less than high school,High school,10.928310844207374,10.389342536596553,NA
+752,1260,2272,White,Female,Less than high school,Less than high school,High school,10.928310844207374,10.389342536596553,NA
+752,1260,2273,White,Male,Less than high school,Less than high school,High school,10.928310844207374,10.389342536596553,NA
+753,1261,2274,White,Female,Less than high school,Less than high school,Some college,10.732500122779877,11.812199556069224,NA
+753,1261,2275,White,Female,Less than high school,Less than high school,Some college,10.732500122779877,11.812199556069224,NA
+753,1262,2277,White,Female,Less than high school,Less than high school,Less than high school,10.732500122779877,10.389342536596553,NA
+753,1262,2279,White,Male,Less than high school,Less than high school,High school,10.732500122779877,10.389342536596553,NA
+754,1264,2281,White,Male,Less than high school,Less than high school,High school,10.99826819566899,9.448198950666729,NA
+755,1265,2282,White,Male,Less than high school,High school,College,11.312302673206181,11.864502712919439,NA
+755,1266,2285,White,Female,Less than high school,Some college,College,11.312302673206181,11.24410918315973,NA
+756,1267,2288,White,Male,Less than high school,High school,College,11.229984994002848,11.864502712919439,NA
+756,1267,2289,White,Male,Less than high school,High school,College,11.229984994002848,11.864502712919439,NA
+756,1268,2290,White,Female,Less than high school,Some college,College,11.229984994002848,11.24410918315973,NA
+757,1269,2292,White,Female,Less than high school,High school,High school,11.750794873145562,11.369397393730173,NA
+759,1272,2296,White,Male,Less than high school,College,High school,11.584772901532848,11.086935656534248,NA
+761,1274,2299,White,Female,High school,Some college,College,11.287391798263373,11.819473037525576,NA
+762,1277,2303,White,Female,High school,High school,Less than high school,11.466615146441091,11.303836274904583,NA
+762,1277,2304,White,Male,High school,High school,High school,11.466615146441091,11.303836274904583,NA
+763,1278,2305,White,Male,Less than high school,High school,High school,11.617443422182541,11.219031611755787,NA
+763,1278,2306,White,Female,Less than high school,High school,High school,11.617443422182541,11.219031611755787,NA
+763,1279,2307,White,Male,Less than high school,High school,High school,11.617443422182541,11.455754583638296,NA
+764,1281,2310,White,Male,High school,High school,High school,11.60717273840431,11.455754583638296,NA
+765,1282,2311,White,Female,Less than high school,High school,High school,10.680619904622985,11.0780489787071,NA
+768,1285,2315,White,Male,Less than high school,High school,College,10.981392753622817,11.492921106956105,NA
+768,1285,2316,White,Female,Less than high school,High school,College,10.981392753622817,11.492921106956105,NA
+768,1286,2318,White,Male,Less than high school,High school,High school,10.981392753622817,11.515609733435632,NA
+768,1286,2319,White,Female,Less than high school,High school,High school,10.981392753622817,11.515609733435632,NA
+769,1288,2321,White,Male,Less than high school,High school,College,10.978598983175603,11.492921106956105,NA
+769,1289,2323,White,Female,Less than high school,High school,Some college,10.978598983175603,11.515609733435632,NA
+769,1289,2325,White,Female,Less than high school,High school,High school,10.978598983175603,11.515609733435632,NA
+770,1292,2330,White,Female,Less than high school,High school,Some college,11.477312142466282,10.850502437210245,NA
+770,1293,2333,White,Female,Less than high school,High school,Some college,11.477312142466282,11.250630692811725,NA
+771,1294,2335,White,Male,Less than high school,High school,High school,11.148524520273684,11.787809598325287,NA
+771,1295,2336,White,Male,Less than high school,High school,High school,11.148524520273684,10.850502437210245,NA
+771,1295,2337,White,Female,Less than high school,High school,Some college,11.148524520273684,10.850502437210245,NA
+771,1296,2339,White,Male,Less than high school,High school,High school,11.148524520273684,11.250630692811725,NA
+772,1297,2341,White,Female,Less than high school,High school,High school,11.134621793238818,10.406687010538981,NA
+772,1297,2342,White,Female,Less than high school,High school,High school,11.134621793238818,10.406687010538981,NA
+773,1299,2344,White,Female,Less than high school,High school,High school,11.118321171617998,10.406687010538981,NA
+773,1299,2345,White,Female,Less than high school,High school,High school,11.118321171617998,10.406687010538981,NA
+774,1301,2347,Black,Female,Less than high school,Less than high school,High school,10.803668253833981,10.214752097500824,NA
+775,1302,2348,Black,Female,Less than high school,Less than high school,High school,10.940388528984144,10.214752097500824,NA
+776,1303,2349,White,Female,Some college,High school,Some college,11.406774502284678,11.376508561437413,NA
+777,1305,2352,White,Female,Less than high school,High school,Some college,11.48948213424176,11.376508561437413,NA
+779,1308,2357,White,Male,High school,High school,Less than high school,11.81941695854826,11.61580680360142,NA
+780,1310,2362,White,Female,High school,High school,Some college,11.61558050687472,11.822130823323581,NA
+780,1310,2363,White,Female,High school,High school,Some college,11.61558050687472,11.822130823323581,NA
+782,1312,2366,White,Male,Some college,Some college,College,11.639697486937834,11.867548905210347,NA
+783,1313,2368,White,Female,Some college,Some college,High school,11.669631891091958,11.785247715885983,NA
+784,1314,2369,White,Male,Less than high school,High school,Some college,10.965358410342386,10.247985543495563,NA
+784,1314,2371,White,Female,Less than high school,High school,Some college,10.965358410342386,10.247985543495563,NA
+784,1314,2372,White,Female,Less than high school,High school,High school,10.965358410342386,10.247985543495563,NA
+785,1315,2374,White,Female,Less than high school,High school,Some college,10.966313544680647,10.658877696727913,NA
+785,1316,2375,White,Male,Less than high school,High school,Some college,10.966313544680647,10.247985543495563,NA
+785,1316,2376,White,Female,Less than high school,High school,Some college,10.966313544680647,10.247985543495563,NA
+785,1316,2377,White,Female,Less than high school,High school,Some college,10.966313544680647,10.247985543495563,NA
+785,1316,2378,White,Female,Less than high school,High school,High school,10.966313544680647,10.247985543495563,NA
+786,1317,2382,White,Female,High school,College,College,11.251401806302049,11.149349548764619,NA
+787,1318,2383,White,Male,High school,College,College,11.251401806302049,11.149349548764619,NA
+787,1318,2384,White,Male,High school,College,College,11.251401806302049,11.149349548764619,NA
+787,1318,2385,White,Female,High school,College,College,11.251401806302049,11.149349548764619,NA
+788,1319,2386,White,Male,Less than high school,High school,Some college,11.287329827089215,11.711500412619486,NA
+789,1320,2389,White,Male,Less than high school,High school,Some college,11.445413834468665,11.711500412619486,NA
+790,1321,2391,White,Male,College,College,College,11.716156020049473,11.791798580996113,NA
+790,1321,2392,White,Female,College,College,College,11.716156020049473,11.791798580996113,NA
+791,1322,2394,White,Male,High school,College,College,11.752596743403258,11.791798580996113,NA
+791,1322,2395,White,Female,High school,College,College,11.752596743403258,11.791798580996113,NA
+792,1323,2396,White,Female,Some college,High school,High school,11.641278366780943,11.40066410458295,NA
+792,1324,2397,White,Female,Some college,College,High school,11.641278366780943,11.168735472262325,NA
+792,1324,2398,White,Male,Some college,College,Some college,11.641278366780943,11.168735472262325,NA
+792,1324,2399,White,Female,Some college,College,College,11.641278366780943,11.168735472262325,NA
+792,1324,2400,White,Female,Some college,College,College,11.641278366780943,11.168735472262325,NA
+792,1324,2401,White,Female,Some college,College,High school,11.641278366780943,11.168735472262325,NA
+792,1325,2402,White,Male,Some college,High school,High school,11.641278366780943,11.418640233121295,NA
+792,1325,2403,White,Male,Some college,High school,High school,11.641278366780943,11.418640233121295,NA
+793,1329,2408,White,Female,College,High school,Some college,11.351518995928462,11.095907050229265,NA
+794,1332,2412,White,Female,High school,High school,Some college,11.365270100941288,11.095907050229265,NA
+794,1332,2413,White,Male,High school,High school,Less than high school,11.365270100941288,11.095907050229265,NA
+795,1333,2415,White,Female,Some college,Some college,College,12.14999419289788,11.54090401069682,NA
+795,1334,2417,White,Male,Some college,College,Some college,12.14999419289788,11.934892722349721,NA
+795,1335,2418,White,Male,Some college,Some college,Some college,12.14999419289788,11.735120979688798,NA
+795,1335,2420,White,Male,Some college,Some college,College,12.14999419289788,11.735120979688798,NA
+796,1336,2421,White,Male,Some college,Some college,College,12.230001210206984,11.54090401069682,NA
+796,1337,2423,White,Male,Some college,College,High school,12.230001210206984,11.934892722349721,NA
+796,1338,2426,White,Male,Some college,Some college,Some college,12.230001210206984,11.735120979688798,NA
+796,1338,2427,White,Male,Some college,Some college,College,12.230001210206984,11.735120979688798,NA
+798,1340,2430,White,Male,High school,Some college,Some college,11.456975174520656,11.431182033232295,NA
+798,1340,2431,White,Female,High school,Some college,College,11.456975174520656,11.431182033232295,NA
+800,1342,2433,White,Female,Less than high school,High school,High school,10.352659050603098,10.59824665524218,NA
+801,1343,2434,White,Male,Less than high school,Some college,Some college,11.722351836278898,11.97455862248971,NA
+801,1343,2435,White,Female,Less than high school,Some college,College,11.722351836278898,11.97455862248971,NA
+802,1344,2436,White,Male,Less than high school,Some college,Some college,11.696974615205383,11.97455862248971,NA
+803,1345,2439,White,Female,Less than high school,Some college,Some college,11.57078620426511,11.46197368647277,NA
+803,1346,2442,White,Female,Less than high school,Less than high school,High school,11.57078620426511,11.20488798907817,NA
+803,1347,2444,White,Male,Less than high school,High school,Some college,11.57078620426511,11.442740016172005,NA
+804,1348,2447,White,Male,Less than high school,Some college,Some college,11.254021096666765,11.46197368647277,NA
+804,1349,2449,White,Female,Less than high school,Less than high school,High school,11.254021096666765,11.20488798907817,NA
+804,1350,2450,White,Male,Less than high school,High school,High school,11.254021096666765,11.442740016172005,NA
+807,1353,2455,White,Female,College,College,College,11.933629057542168,11.917531508065164,NA
+807,1353,2456,White,Female,College,College,College,11.933629057542168,11.917531508065164,NA
+808,1354,2457,White,Female,College,College,College,11.935574229745866,11.917531508065164,NA
+808,1354,2459,White,Female,College,College,College,11.935574229745866,11.917531508065164,NA
+809,1355,2461,White,Female,High school,High school,Some college,11.57513940826464,10.919478757732385,NA
+812,1359,2466,Black,Male,High school,Some college,High school,11.584706830843263,11.82537045208672,NA
+813,1362,2471,Black,Male,High school,Some college,High school,11.544883795378212,11.82537045208672,NA
+813,1362,2472,Black,Female,High school,Some college,Less than high school,11.544883795378212,11.82537045208672,NA
+814,1364,2474,White,Male,Less than high school,High school,Some college,11.091316041022255,12.066468882542335,NA
+815,1365,2475,White,Male,Less than high school,Some college,College,12.06974193611154,12.539236615129024,NA
+816,1367,2477,White,Male,High school,Some college,College,11.969120400031848,12.539236615129024,NA
+816,1368,2478,White,Male,High school,College,College,11.969120400031848,12.095661414504427,NA
+817,1369,2479,White,Female,High school,Less than high school,High school,10.92161400411512,10.925168315594883,NA
+818,1370,2480,White,Female,Less than high school,Less than high school,High school,11.173031772558653,10.925168315594883,NA
+823,1377,2487,White,Male,Less than high school,High school,Some college,10.879837591975706,10.32553685979426,NA
+823,1378,2488,White,Male,Less than high school,High school,College,10.879837591975706,10.783848924431098,NA
+823,1378,2489,White,Male,Less than high school,High school,College,10.879837591975706,10.783848924431098,NA
+823,1379,2490,White,Male,Less than high school,College,High school,10.879837591975706,11.627878816226938,NA
+825,1382,2494,White,Male,High school,Less than high school,High school,11.583686628042809,10.888777253468199,NA
+826,1384,2498,White,Male,Less than high school,Less than high school,High school,11.583686628042809,10.888777253468199,NA
+827,1385,2500,Black,Male,Less than high school,High school,High school,11.074205802913191,10.585037664861495,NA
+827,1385,2503,Black,Male,Less than high school,High school,Some college,11.074205802913191,10.585037664861495,NA
+830,1390,2510,White,Female,Less than high school,High school,College,10.933108915849568,10.828190458014788,NA
+830,1391,2514,White,Female,Less than high school,High school,College,10.933108915849568,11.89839901309522,NA
+830,1393,2517,White,Male,Less than high school,Less than high school,Less than high school,10.933108915849568,10.653750499672356,NA
+831,1394,2518,White,Female,Less than high school,High school,College,11.325523674600824,10.828190458014788,NA
+831,1395,2522,White,Female,Less than high school,High school,College,11.325523674600824,11.89839901309522,NA
+831,1396,2524,White,Female,Less than high school,Some college,High school,11.325523674600824,10.816078780997177,NA
+832,1398,2527,White,Female,High school,High school,Some college,11.715295578264666,11.089810264280905,NA
+832,1399,2528,White,Female,High school,Some college,High school,11.715295578264666,10.9566622584487,NA
+834,1402,2531,White,Male,Less than high school,High school,High school,11.335130778704327,10.976215590258578,NA
+835,1404,2534,White,Male,Less than high school,High school,High school,11.305491380257326,10.976215590258578,NA
+836,1405,2537,White,Female,Less than high school,High school,High school,11.344148659224086,11.596972961293222,NA
+836,1405,2538,White,Male,Less than high school,High school,Some college,11.344148659224086,11.596972961293222,NA
+836,1406,2539,White,Female,Less than high school,High school,College,11.344148659224086,11.091735982538198,NA
+837,1407,2541,White,Female,Less than high school,High school,High school,11.370900086801656,11.596972961293222,NA
+837,1407,2542,White,Female,Less than high school,High school,High school,11.370900086801656,11.596972961293222,NA
+837,1408,2544,White,Female,Less than high school,High school,College,11.370900086801656,11.091735982538198,NA
+838,1409,2546,Black,Male,Less than high school,High school,High school,11.007564555987875,10.565484347607551,NA
+838,1409,2547,Black,Female,Less than high school,High school,High school,11.007564555987875,10.565484347607551,NA
+838,1410,2548,Black,Female,Less than high school,High school,Some college,11.007564555987875,10.802193674228477,NA
+838,1411,2549,Black,Male,Less than high school,Less than high school,High school,11.007564555987875,11.321345155858012,NA
+839,1412,2551,White,Male,High school,High school,Some college,10.999632022489129,11.206286049541093,NA
+839,1412,2552,White,Male,High school,High school,High school,10.999632022489129,11.206286049541093,NA
+840,1413,2553,White,Female,High school,High school,High school,10.999632022489129,11.206286049541093,NA
+840,1413,2554,White,Male,High school,High school,Some college,10.999632022489129,11.206286049541093,NA
+840,1413,2555,White,Male,High school,High school,High school,10.999632022489129,11.206286049541093,NA
+841,1414,2557,White,Male,College,College,College,12.057153878341957,11.147874957016072,NA
+841,1416,2560,White,Female,College,College,College,12.057153878341957,11.452042328099754,NA
+841,1416,2561,White,Female,College,College,College,12.057153878341957,11.452042328099754,NA
+843,1418,2564,White,Female,College,College,College,13.01366634890535,12.204629113105009,NA
+843,1418,2565,White,Male,College,College,Some college,13.01366634890535,12.204629113105009,NA
+844,1420,2567,White,Male,High school,High school,College,9.937178913281858,10.398938429692127,NA
+845,1421,2568,White,Female,High school,College,College,10.993455048431342,11.63040427925945,NA
+845,1421,2569,White,Female,High school,College,Some college,10.993455048431342,11.63040427925945,NA
+845,1422,2570,White,Male,High school,Some college,High school,10.993455048431342,11.790657096317716,NA
+845,1422,2571,White,Female,High school,Some college,College,10.993455048431342,11.790657096317716,NA
+846,1424,2575,White,Female,Less than high school,Some college,College,11.17240301285409,11.790657096317716,NA
+847,1425,2576,White,Male,High school,High school,Some college,11.555639369492546,11.651631473836028,NA
+847,1425,2577,White,Male,High school,High school,Some college,11.555639369492546,11.651631473836028,NA
+847,1426,2579,White,Male,High school,High school,High school,11.555639369492546,11.566125241825699,NA
+848,1427,2582,White,Male,High school,High school,Some college,11.531125108882735,11.651631473836028,NA
+849,1429,2587,White,Female,Less than high school,Less than high school,Less than high school,10.849441163860567,10.313726600722381,NA
+851,1431,2589,White,Male,Less than high school,High school,High school,11.714339455189663,11.740467670763337,NA
+852,1432,2590,White,Female,College,High school,High school,12.258692660614903,11.12884225858962,NA
+853,1434,2593,White,Male,Less than high school,High school,High school,11.658342581605561,11.611244665676816,NA
+854,1435,2596,White,Male,High school,High school,High school,11.658342581605561,11.500608333116643,NA
+854,1436,2597,White,Male,High school,High school,High school,11.658342581605561,11.611244665676816,NA
+855,1437,2600,White,Male,Less than high school,High school,High school,11.24932902693869,11.54530625763404,NA
+855,1438,2602,White,Female,Less than high school,High school,College,11.24932902693869,11.817980660577906,NA
+855,1439,2603,White,Female,Less than high school,High school,College,11.24932902693869,11.545842567922108,NA
+856,1440,2605,White,Male,High school,High school,High school,11.437577550777656,11.54530625763404,NA
+856,1441,2606,White,Male,High school,High school,College,11.437577550777656,11.817980660577906,NA
+856,1441,2607,White,Female,High school,High school,College,11.437577550777656,11.817980660577906,NA
+856,1442,2608,White,Female,High school,High school,College,11.437577550777656,11.545842567922108,NA
+856,1443,2609,White,Female,High school,Some college,Some college,11.437577550777656,11.916719471209634,NA
+856,1443,2610,White,Male,High school,Some college,Some college,11.437577550777656,11.916719471209634,NA
+856,1443,2611,White,Female,High school,Some college,Some college,11.437577550777656,11.916719471209634,NA
+857,1444,2613,White,Male,High school,High school,High school,10.963194400595903,10.85851775260072,NA
+858,1445,2616,White,Male,Less than high school,High school,Some college,11.069628030761764,10.85851775260072,NA
+859,1446,2618,White,Female,High school,High school,Some college,11.480105357180872,11.451239862950795,NA
+860,1447,2619,White,Male,Less than high school,High school,Some college,11.419095697751985,11.451239862950795,NA
+860,1447,2620,White,Female,Less than high school,High school,Some college,11.419095697751985,11.451239862950795,NA
+861,1448,2621,White,Female,Some college,Some college,High school,12.119483870427674,11.552352382199862,NA
+861,1448,2622,White,Female,Some college,Some college,High school,12.119483870427674,11.552352382199862,NA
+861,1449,2623,White,Female,Some college,High school,Some college,12.119483870427674,11.603153332993832,NA
+863,1452,2627,White,Male,Less than high school,Less than high school,High school,11.027771844083087,11.496614995935262,NA
+865,1454,2629,White,Female,Less than high school,High school,College,10.712826707277985,12.032645263908513,NA
+865,1454,2630,White,Male,Less than high school,High school,Some college,10.712826707277985,12.032645263908513,NA
+866,1456,2632,White,Female,Less than high school,High school,College,11.098026907273779,12.032645263908513,NA
+867,1458,2635,Black,Female,Less than high school,High school,Some college,10.753335783656294,11.485928489168444,NA
+867,1458,2636,Black,Female,Less than high school,High school,High school,10.753335783656294,11.485928489168444,NA
+868,1459,2639,Black,Female,Less than high school,High school,High school,10.506966387374403,11.485928489168444,NA
+868,1459,2640,Black,Male,Less than high school,High school,High school,10.506966387374403,11.485928489168444,NA
+869,1461,2642,Black,Female,High school,High school,High school,11.171161752412448,10.615515834612657,NA
+869,1462,2643,Black,Male,High school,High school,Some college,11.171161752412448,11.385407447246344,NA
+869,1463,2645,Black,Male,High school,High school,High school,11.171161752412448,10.694734907219521,NA
+869,1463,2646,Black,Female,High school,High school,High school,11.171161752412448,10.694734907219521,NA
+869,1464,2647,Black,Male,High school,High school,Some college,11.171161752412448,10.056535489873081,NA
+869,1465,2650,Black,Female,High school,High school,High school,11.171161752412448,10.941142565417412,NA
+871,1468,2655,White,Female,High school,Some college,High school,10.950147292056903,11.537610730217216,NA
+873,1470,2658,White,Female,High school,College,High school,11.476571425710976,11.215621349358443,NA
+873,1471,2659,White,Male,High school,High school,College,11.476571425710976,11.998935489534674,NA
+873,1471,2660,White,Female,High school,High school,College,11.476571425710976,11.998935489534674,NA
+874,1472,2661,White,Female,High school,College,High school,11.736253426428274,11.215621349358443,NA
+874,1473,2663,White,Female,High school,High school,College,11.736253426428274,11.998935489534674,NA
+875,1474,2666,White,Male,Some college,Some college,Some college,11.702669134893465,11.61913802548356,NA
+875,1475,2668,White,Male,Some college,High school,Some college,11.702669134893465,11.749842106312983,NA
+875,1475,2669,White,Male,Some college,High school,High school,11.702669134893465,11.749842106312983,NA
+875,1475,2671,White,Female,Some college,High school,Some college,11.702669134893465,11.749842106312983,NA
+875,1476,2672,White,Male,Some college,High school,Less than high school,11.702669134893465,11.492122400791022,NA
+875,1476,2673,White,Female,Some college,High school,College,11.702669134893465,11.492122400791022,NA
+875,1476,2674,White,Male,Some college,High school,Some college,11.702669134893465,11.492122400791022,NA
+876,1477,2676,White,Female,High school,Some college,Some college,11.719237533041774,11.61913802548356,NA
+876,1477,2677,White,Male,High school,Some college,Some college,11.719237533041774,11.61913802548356,NA
+876,1478,2679,White,Male,High school,High school,Some college,11.719237533041774,11.749842106312983,NA
+876,1479,2683,White,Male,High school,High school,Less than high school,11.719237533041774,11.492122400791022,NA
+876,1479,2684,White,Female,High school,High school,College,11.719237533041774,11.492122400791022,NA
+876,1479,2685,White,Male,High school,High school,Some college,11.719237533041774,11.492122400791022,NA
+877,1480,2686,White,Female,Less than high school,College,College,11.554923065201208,12.003056423176078,NA
+878,1482,2690,White,Male,Less than high school,Some college,Some college,11.869292119641234,11.576108257094907,NA
+878,1482,2691,White,Female,Less than high school,Some college,Less than high school,11.869292119641234,11.576108257094907,NA
+879,1483,2692,White,Male,Less than high school,Some college,Some college,11.970431726798646,11.576108257094907,NA
+880,1484,2694,White,Male,Less than high school,Some college,Some college,11.831167515152398,11.390324638432103,NA
+880,1484,2695,White,Female,Less than high school,Some college,College,11.831167515152398,11.390324638432103,NA
+881,1485,2697,White,Male,High school,Some college,Some college,11.741944851117637,11.390324638432103,NA
+881,1485,2698,White,Female,High school,Some college,College,11.741944851117637,11.390324638432103,NA
+881,1485,2699,White,Female,High school,Some college,College,11.741944851117637,11.390324638432103,NA
+883,1487,2701,White,Male,Less than high school,High school,College,10.948492311091119,10.99908574767557,NA
+884,1488,2702,White,Male,Less than high school,High school,College,10.910695653169263,10.99908574767557,NA
+885,1489,2703,White,Female,High school,High school,High school,11.25616490458252,12.172566603268427,NA
+885,1490,2704,White,Female,High school,High school,College,11.25616490458252,12.06743727496482,NA
+887,1492,2706,White,Male,High school,High school,Some college,10.581531549146412,10.91238907547482,NA
+888,1494,2708,White,Female,Some college,Some college,Some college,11.34406920824637,11.641252298662272,NA
+889,1496,2711,White,Female,Less than high school,Some college,Some college,11.128156851430218,11.641252298662272,NA
+893,1502,2720,Black,Male,Less than high school,High school,Less than high school,9.418319114836576,10.289233209863056,NA
+893,1503,2721,Black,Female,Less than high school,Less than high school,High school,9.418319114836576,10.90358974418248,NA
+893,1503,2722,Black,Male,Less than high school,Less than high school,College,9.418319114836576,10.90358974418248,NA
+894,1504,2725,Black,Female,Less than high school,Some college,Less than high school,10.74644324860233,11.713379253129451,NA
+896,1506,2727,Other,Male,Less than high school,High school,Some college,11.610560740334108,11.5939270626313,NA
+896,1506,2728,Other,Female,Less than high school,High school,College,11.610560740334108,11.5939270626313,NA
+897,1507,2729,White,Male,Less than high school,High school,Some college,11.551681104814444,11.5939270626313,NA
